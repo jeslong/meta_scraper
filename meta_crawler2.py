@@ -27,10 +27,12 @@ import requests, re, random, codecs, sys, json
 streamWriter = codecs.lookup('utf-8')[-1]
 sys.stdout = streamWriter(sys.stdout)
 
-
-def randomlink(url):
+def soupify(url):
 	r = requests.get(url)
 	soup = BeautifulSoup(r.text)
+	return soup
+
+def randomlink(soup):
 	anchors = soup.find_all('a')
 	#~ print anchors
 	links = []
@@ -54,40 +56,57 @@ def randomlink(url):
 		return newurl
 	# TODO: Add Try/Except blocks, Exception ConnectionError
 	
-def find_meta(page):
-	r = requests.get(page)
-	soup = BeautifulSoup(r.text)
+def store_metas(soup):
+	meta_count = 0
 	metas = soup.find_all('meta')
-	for meta in metas:
-		return meta.attrs
+	meta_num = len(metas)
+	if meta_num > 0:
+		for meta in metas:
+			meta_count += 1
+			object_name = ""
+			with open("meta_json.txt", "a+b") as f:
+				f.write(object_name.join(['"meta', str(meta_count), '":'])) 
+			meta_attributes = meta.attrs
+			metas_db = json.dumps(meta_attributes, indent=4, separators=(',', ': '))
+			with open("meta_json.txt", "a+b") as f:
+				f.write(metas_db)
+				if meta_count < meta_num:		
+					f.write(",")
+				else:
+					f.write("}")
+	else:
+		with open("meta_json.txt", "a+b") as f:
+			f.write('}')
 		
-def main(depth=100):
+def main(depth=10):
+	pagecount = 0
 	with open ("meta_json.txt", "w") as f:
 		f.write('{')
 	page = input("Enter a URL to scrape:")
 	with open ("meta_json.txt", "a+b") as f:
 		object_name = ""
-		f.write(object_name.join(['"', page, '" :']))
-	metas = find_meta(page)
-	print metas
-	metas_db = json.dumps(metas, indent=4, separators=(',', ': '))
-	with open("meta_json.txt", "a+b") as f:
-		f.write(metas_db)
+		f.write(object_name.join(['"', page, '" : {']))
+	soup = soupify(page)
+	store_metas(soup)
+	with open ("meta_json.txt", "a+b") as f:
 		f.write(",")
 	for i in range(depth):
-		newpage = randomlink(page)
+		pagecount += 1
+		newpage = randomlink(soup)
 		with open("meta_json.txt", "a+b") as f:
 			object_name = ""
-			f.write(object_name.join(['"', newpage, '" :']))
-		metas = find_meta(newpage)
-		print metas
-		metas_db = json.dumps(metas, indent=4, separators=(',', ': '))
+			f.write(object_name.join(['"', newpage, '" : {']))
+		newsoup = soupify(newpage)
+		store_metas(newsoup)
 		with open("meta_json.txt", "a+b") as f:
-			f.write(metas_db)
-			f.write(",")
+			if pagecount < depth:
+				f.write(',')
+			else:
+				f.write('}')
+		soup = newsoup
 		page = newpage
-	with open("meta_json.txt", "a+b") as f:
-		f.write('}')
+	#~ with open("meta_json.txt", "a+b") as f:
+		#~ f.write('}')
 
 if __name__ == '__main__':
 	main()

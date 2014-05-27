@@ -1,0 +1,527 @@
+{"http://www.yahoo.com" : {"meta1":{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "chrome=1",
+    "http-equiv": "X-UA-Compatible"
+},"meta3":{
+    "content": "A new welcome to Yahoo. The new Yahoo experience makes it easier to discover the news and information that you care about most. It's the web ordered for you.",
+    "name": "description"
+},"meta4":{
+    "content": "yahoo, yahoo home page, yahoo homepage, yahoo search, yahoo mail, yahoo messenger, yahoo games, news, finance, sport, entertainment",
+    "name": "keywords"
+},"meta5":{
+    "content": "Yahoo",
+    "property": "og:title"
+},"meta6":{
+    "content": "website",
+    "property": "og:type"
+},"meta7":{
+    "content": "https://www.yahoo.com/",
+    "property": "og:url"
+},"meta8":{
+    "content": "A new welcome to Yahoo. The new Yahoo experience makes it easier to discover the news and information that you care about most. It's the web ordered for you.",
+    "property": "og:description"
+},"meta9":{
+    "content": "https://s1.yimg.com/dh/ap/default/130909/y_200_a.png",
+    "property": "og:image"
+},"meta10":{
+    "content": "Yahoo",
+    "property": "og:site_name"
+},"meta11":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+}},"http://sports.yahoo.com/nba/teams/bro" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "Brooklyn Nets, Brooklyn",
+    "name": "keywords"
+},"meta3":{
+    "lang": "en-US",
+    "content": "Comprehensive and up-to-date Brooklyn Nets news, scores, schedule, stats and roster",
+    "name": "description"
+},"meta4":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta5":{
+    "content": "Comprehensive and up-to-date Brooklyn Nets news, scores, schedule, stats and roster",
+    "property": "og:description"
+},"meta6":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/2md8TytoiybSOjK2DBGuBA--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/brooklyn-basketball-team-logo.gif.cf.png",
+    "property": "og:image"
+},"meta7":{
+    "content": "Yahoo Sports",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Brooklyn Nets on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "property": "og:title"
+},"meta9":{
+    "content": "website",
+    "property": "og:type"
+},"meta10":{
+    "content": "http://sports.yahoo.com/nba/teams/bro/",
+    "property": "og:url"
+},"meta11":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "Comprehensive and up-to-date Brooklyn Nets news, scores, schedule, stats and roster",
+    "name": "twitter:description"
+},"meta13":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/2md8TytoiybSOjK2DBGuBA--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/brooklyn-basketball-team-logo.gif.cf.png",
+    "name": "twitter:image"
+},"meta14":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/2md8TytoiybSOjK2DBGuBA--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/brooklyn-basketball-team-logo.gif.cf.png",
+    "name": "twitter:image:src"
+},"meta15":{
+    "content": "Brooklyn Nets on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "twitter:title"
+},"meta16":{
+    "content": "Brooklyn Nets on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "application-name"
+},"meta17":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta18":{
+    "content": "http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta19":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta20":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+}},"https://beap.adss.yahoo.com/mbclk?bv=1.0.0&es=rZ0YR_EGIS_VAz1eEfXCy5r96PavSkY45dgo2LWYUm9h1Hvz73RaWaFs008xpfIysHZbDdZhIHNgmLD_Ec71B_YmLSmm9BgwveUO_P4DpUpk.MtIo4WtvPnmk80Ue51FM80YrjJzGewjyshE_5.kPZoVDT8ZyFN9UTU6Zy7ncRyaO5zt9twQssb9rboZi63pifADEY_SD2eycSEglJ9xYxKHVUA3hyvRymJFKXx4Hb3Mwpcjc8OT.dFXuyfzIWAoS8sLnuUHJ4SvJpFmy3gh64wTdRW0CMY0TnOES1s8AEGI.1U8UIHXlSHZ5BzLQOBirxa2lSaELGF0n5LH_hYBKMJY5FLX88SgcnytImvVzclvNgN1rNqPD_nLAUAkBTzuyutMpvc1Hr57MKK32augkJCkCWLaYu2CQqUH5UFGpf3a5lmJC3CkDwYkrQ08csYoPlDFnEJit9_UGwt0udh.EzPkvm.eAGVkCkbEnoPeaUGDyu3qlDhqDXrWddu4mziFMaMZfw9sC5Bc8UpJwMDM5LjyA5FUx_umCwvEhAFrgGwc2qsqhmhpoTUZbR.Ro5aY1ZGxfOZuTe5I2_DOxl93DVIL8OK8ILnWaj4goVLw8V7dJFJbgfIDD8aNAEx1CEFNEldwUtYVW38EygJ144QypYffQ5oG.y5g1JaLK1FgYng2OLJzxSA2dnfPZZDrLazscAGTeuKi42.p6Ok-%26lp=" : {"meta1":{
+    "content": "NOINDEX",
+    "name": "ROBOTS"
+}},"http://info.yahoo.com/privacy/us/yahoo/relevantads.html" : {"http://sports.yahoo.com/nba/teams/por" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "Portland Trail Blazers, Portland",
+    "name": "keywords"
+},"meta3":{
+    "lang": "en-US",
+    "content": "Comprehensive and up-to-date Portland Trail Blazers news, scores, schedule, stats and roster",
+    "name": "description"
+},"meta4":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta5":{
+    "content": "Comprehensive and up-to-date Portland Trail Blazers news, scores, schedule, stats and roster",
+    "property": "og:description"
+},"meta6":{
+    "content": "http://l1.yimg.com/bt/api/res/1.2/IVBBtW7V9mV7Da6mno_w2Q--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/portland-basketball-team-logo.gif.cf.png",
+    "property": "og:image"
+},"meta7":{
+    "content": "Yahoo Sports",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Portland Trail Blazers on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "property": "og:title"
+},"meta9":{
+    "content": "website",
+    "property": "og:type"
+},"meta10":{
+    "content": "http://sports.yahoo.com/nba/teams/por/",
+    "property": "og:url"
+},"meta11":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "Comprehensive and up-to-date Portland Trail Blazers news, scores, schedule, stats and roster",
+    "name": "twitter:description"
+},"meta13":{
+    "content": "http://l1.yimg.com/bt/api/res/1.2/IVBBtW7V9mV7Da6mno_w2Q--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/portland-basketball-team-logo.gif.cf.png",
+    "name": "twitter:image"
+},"meta14":{
+    "content": "http://l1.yimg.com/bt/api/res/1.2/IVBBtW7V9mV7Da6mno_w2Q--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/portland-basketball-team-logo.gif.cf.png",
+    "name": "twitter:image:src"
+},"meta15":{
+    "content": "Portland Trail Blazers on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "twitter:title"
+},"meta16":{
+    "content": "Portland Trail Blazers on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "application-name"
+},"meta17":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta18":{
+    "content": "http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta19":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta20":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+}},"http://weather.yahoo.com" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "weather forecasts, weather reports, weather maps, usa weather forecast, worldwide weather forecast, local weather forecast, 5 day forecasts, 10 day forecasts, news, weather alerts, yahoo weather, yahoo",
+    "name": "keywords"
+},"meta3":{
+    "lang": "en-US",
+    "content": "View the latest weather forecasts, maps, news and alerts on Yahoo! WeatherView the latest weather forecasts, maps, news and alerts on Yahoo! Weather. Find local weather forecasts for the USA and cities throughout the world.. Find local weather forecasts for the Canada and cities throughout the world.",
+    "name": "description"
+},"meta4":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta5":{
+    "content": "View the latest weather forecasts, maps, news and alerts on Yahoo! WeatherView the latest weather forecasts, maps, news and alerts on Yahoo! Weather. Find local weather forecasts for the USA and cities throughout the world.. Find local weather forecasts for the Canada and cities throughout the world.",
+    "property": "og:description"
+},"meta6":{
+    "content": "https://s3.yimg.com/bt/api/res/1.2/81I5U991YW6EEaB2Cjd58g--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://l.yimg.com/os/mit/media/m/social/images/social_default_logo-1481777.png",
+    "property": "og:image"
+},"meta7":{
+    "content": "Yahoo Weather",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Yahoo Weather - Weather Forecasts | Maps | News",
+    "property": "og:title"
+},"meta9":{
+    "content": "website",
+    "property": "og:type"
+},"meta10":{
+    "content": "https://weather.yahoo.com/",
+    "property": "og:url"
+},"meta11":{
+    "content": "summary",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "View the latest weather forecasts, maps, news and alerts on Yahoo! WeatherView the latest weather forecasts, maps, news and alerts on Yahoo! Weather. Find local weather forecasts for the USA and cities throughout the world.. Find local weather forecasts for the Canada and cities throughout the world.",
+    "name": "twitter:description"
+},"meta13":{
+    "content": "@YahooNews",
+    "name": "twitter:site"
+},"meta14":{
+    "content": "Yahoo Weather - Weather Forecasts | Maps | News",
+    "name": "twitter:title"
+},"meta15":{
+    "content": "Yahoo Weather - Weather Forecasts | Maps | News",
+    "name": "application-name"
+},"meta16":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta17":{
+    "content": "https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta18":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta19":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+}},"http://tv.yahoo.com/news/donald-sterling-slams-magic-johnson-done-hes-got-030900656.html" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "From Yahoo TV: Donald Sterling's interview with CNN's Anderson Cooper debuted Monday, and the L.A. Clippers owner used a considerable portion of the conversation to rip into Magic Johnson. \u201cHe's got AIDS.",
+    "name": "description"
+},"meta3":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta4":{
+    "content": "Donald Sterling's interview with CNN's Anderson Cooper debuted Monday, and the L.A. Clippers owner used a considerable portion of the conversation to rip into Magic Johnson. \u201cHe's got AIDS.",
+    "property": "og:description"
+},"meta5":{
+    "content": "https://s1.yimg.com/bt/api/res/1.2/mVsNsFIR3VKNw9t6jvMQ0A--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_US/News/TheWrap/Donald_Sterling_Slams_Magic_Johnson-6fbd617922e7dcda6939903ad836f8d7.cf.png",
+    "property": "og:image"
+},"meta6":{
+    "content": "Yahoo TV",
+    "property": "og:site_name"
+},"meta7":{
+    "content": "Donald Sterling Slams Magic Johnson: \u2018What Has He Done? He's Got AIDS\u2026 I Think He Should be Ashamed\u2019",
+    "property": "og:title"
+},"meta8":{
+    "content": "article",
+    "property": "og:type"
+},"meta9":{
+    "content": "https://tv.yahoo.com/news/donald-sterling-slams-magic-johnson-done-hes-got-030900656.html",
+    "property": "og:url"
+},"meta10":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+},"meta11":{
+    "content": "Donald Sterling's interview with CNN's Anderson Cooper debuted Monday, and the L.A. Clippers owner used a considerable portion of the conversation to rip into Magic Johnson. \u201cHe's got AIDS.",
+    "name": "twitter:description"
+},"meta12":{
+    "content": "https://s1.yimg.com/bt/api/res/1.2/mVsNsFIR3VKNw9t6jvMQ0A--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_US/News/TheWrap/Donald_Sterling_Slams_Magic_Johnson-6fbd617922e7dcda6939903ad836f8d7.cf.png",
+    "name": "twitter:image"
+},"meta13":{
+    "content": "https://s1.yimg.com/bt/api/res/1.2/mVsNsFIR3VKNw9t6jvMQ0A--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_US/News/TheWrap/Donald_Sterling_Slams_Magic_Johnson-6fbd617922e7dcda6939903ad836f8d7.cf.png",
+    "name": "twitter:image:src"
+},"meta14":{
+    "content": "Donald Sterling Slams Magic Johnson: \u2018What Has He Done? He's Got AIDS\u2026 I Think He Should be Ashamed\u2019",
+    "name": "twitter:title"
+},"meta15":{
+    "content": "Donald Sterling Slams Magic Johnson: \u2018What Has He Done? He's Got AIDS\u2026 I Think He Should be Ashamed\u2019",
+    "name": "application-name"
+},"meta16":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta17":{
+    "content": "https://s.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta18":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta19":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+},"meta20":{
+    "content": "2014-05-13T03:09:00Z",
+    "itemprop": "datePublished"
+},"meta21":{
+    "content": "Donald Sterling Slams Magic Johnson: \u2018What Has He Done? He's Got AIDS\u2026 I Think He Should be Ashamed\u2019",
+    "itemprop": "headline"
+},"meta22":{
+    "content": "",
+    "itemprop": "alternativeHeadline"
+},"meta23":{
+    "content": "https://media.zenfs.com/en_US/News/TheWrap/Donald_Sterling_Slams_Magic_Johnson-6fbd617922e7dcda6939903ad836f8d7",
+    "itemprop": "image"
+},"meta24":{
+    "content": "Donald Sterling's interview with CNN's Anderson Cooper debuted Monday, and the L.A. Clippers owner used a considerable portion of the conversation to rip into Magic Johnson. \u201cHe's got AIDS.",
+    "itemprop": "description"
+}},"https://beap.adss.yahoo.com/mbclk?bv=1.0.0&es=C_vdOjEGIS.iLi7dQaDH_kIZl3IfD4uuUBEHSzTqHQ1_k2muDpaoJQmtLiAhv40y2PVWx71wf7bMCku0DdBxp0QlNG5dt4wPIkVeq0kk.iehPWXJbyv6uaLMnTZJRgOZdQgkZyEcm6ddw4AliGhVJmKUxgDU1BhLS2Lkj790542w_aS0onxabOQOglLYA9mLpJxFMlWnjoHJlD5.JwykeNUmZ6IIaxvikkPa042h19z.GHbgihaxI7uAJySRq3DPFCK5PtBirkrVwUazrp6K0RVzR5wji_htwJ61l2E1Jw4ycKZUmxV.A6ykR9nMoUwZXv29d8ud1FY0A4.MWJGJS3qyOA5FHf_z77VSWCAJtmpcrTRngMEpmuvosLBneoSacWChJKlTJkKLxAgoN5MS_1hcQlVXCt_3HZiKb.TBgS5rJI4h9jK_Mrdd6dPPWYFCQ9CYQknR8JT2nEwBLfxghI38knYRmDX57GLb3joamHjbLwSKXf1vG2Po6laVSqcni.ZIP0eD75ulZ4Wmr8jk06UCGdWWS5cvRuFLa83sxLp0xGVSQmaHMnEBlj9aj_zv4iIfeS3FasdsDhxibxXUx8GleOImWFZ02lo9QHYDJfwBUT37iv5ZLgQoiV8Z5Tn0DYb9x6EKHU3yPv4cLUeowmD5ERcciQJsIKAngQ6sa2pTrpZWASuR2xkD.JpHE2cRTZzNfjj3yXeZnvLbYuF8PDk85pf_8DFuG4DFdDfb_rsNUDK1j9WMsdaM3Fade0uozcOr4kLZ9A--%26lp=" : {"meta1":{
+    "content": "NOINDEX",
+    "name": "ROBOTS"
+}},"http://sports.yahoo.com/blogs/nfl-shutdown-corner/49ers-got-a-fairly-incredible-haul-in-the-alex-smith-trade-153536820.html" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "From Yahoo Sports: The St. Louis Rams got a fairly unbelievable return in their trade that sent quarterback Robert Griffin III to Washington, but we all knew that. It is referenced all the time. The Alex Smith trade isn't talked about as much but it's pretty unbelievable.",
+    "name": "description"
+},"meta3":{
+    "lang": "en-US",
+    "content": "http://sports.yahoo.com/blogs/shutdown-corner/49ers-got-a-fairly-incredible-haul-in-the-alex-smith-trade-153536820.html",
+    "name": "original-source"
+},"meta4":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta5":{
+    "content": "The St. Louis Rams got a fairly unbelievable return in their trade that sent quarterback Robert Griffin III to Washington, but we all knew that. It is referenced all the time. The Alex Smith trade isn't talked about as much but it's pretty unbelievable.",
+    "property": "og:description"
+},"meta6":{
+    "content": "http://l.yimg.com/bt/api/res/1.2/zSl2UehP4E_ciztBbfFRGw--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/News/gettyimages.com/nfc-championship-san-francisco-49ers-20130120-115622-772.jpg",
+    "property": "og:image"
+},"meta7":{
+    "content": "Yahoo Sports",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "49ers got a fairly incredible haul in the Alex Smith trade",
+    "property": "og:title"
+},"meta9":{
+    "content": "article",
+    "property": "og:type"
+},"meta10":{
+    "content": "http://sports.yahoo.com/blogs/nfl-shutdown-corner/49ers-got-a-fairly-incredible-haul-in-the-alex-smith-trade-153536820.html",
+    "property": "og:url"
+},"meta11":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "The St. Louis Rams got a fairly unbelievable return in their trade that sent quarterback Robert Griffin III to Washington, but we all knew that. It is referenced all the time. The Alex Smith trade isn't talked about as much but it's pretty unbelievable.",
+    "name": "twitter:description"
+},"meta13":{
+    "content": "http://l.yimg.com/bt/api/res/1.2/zSl2UehP4E_ciztBbfFRGw--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/News/gettyimages.com/nfc-championship-san-francisco-49ers-20130120-115622-772.jpg",
+    "name": "twitter:image"
+},"meta14":{
+    "content": "http://l.yimg.com/bt/api/res/1.2/zSl2UehP4E_ciztBbfFRGw--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/News/gettyimages.com/nfc-championship-san-francisco-49ers-20130120-115622-772.jpg",
+    "name": "twitter:image:src"
+},"meta15":{
+    "content": "49ers got a fairly incredible haul in the Alex Smith trade",
+    "name": "twitter:title"
+},"meta16":{
+    "content": "49ers got a fairly incredible haul in the Alex Smith trade",
+    "name": "application-name"
+},"meta17":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta18":{
+    "content": "http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta19":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta20":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+},"meta21":{
+    "content": "2014-05-12T15:35:36Z",
+    "itemprop": "datePublished"
+},"meta22":{
+    "content": "49ers got a fairly incredible haul in the Alex Smith trade",
+    "itemprop": "headline"
+},"meta23":{
+    "content": "",
+    "itemprop": "alternativeHeadline"
+},"meta24":{
+    "content": "http://media.zenfs.com/en_us/News/gettyimages.com/nfc-championship-san-francisco-49ers-20130120-115622-772.jpg",
+    "itemprop": "image"
+},"meta25":{
+    "content": "The St. Louis Rams got a fairly unbelievable return in their trade that sent quarterback Robert Griffin III to Washington, but we all knew that. It is referenced all the time. The Alex Smith trade isn't talked about as much but it's pretty unbelievable.",
+    "itemprop": "description"
+}},"http://sports.yahoo.com/mlb/teams/laa" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "lang": "en-US",
+    "content": "Los Angeles Angels, LA Angels",
+    "name": "keywords"
+},"meta3":{
+    "lang": "en-US",
+    "content": "Comprehensive and up-to-date Los Angeles Angels news, scores, schedule, stats and roster",
+    "name": "description"
+},"meta4":{
+    "content": "90376669494",
+    "property": "fb:app_id"
+},"meta5":{
+    "content": "Comprehensive and up-to-date Los Angeles Angels news, scores, schedule, stats and roster",
+    "property": "og:description"
+},"meta6":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/rWtmfwu8LaBntdyQCxPzQQ--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/la-angels-baseball-team-logo.gif.cf.png",
+    "property": "og:image"
+},"meta7":{
+    "content": "Yahoo Sports",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Los Angeles Angels on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "property": "og:title"
+},"meta9":{
+    "content": "website",
+    "property": "og:type"
+},"meta10":{
+    "content": "http://sports.yahoo.com/mlb/teams/laa/",
+    "property": "og:url"
+},"meta11":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "Comprehensive and up-to-date Los Angeles Angels news, scores, schedule, stats and roster",
+    "name": "twitter:description"
+},"meta13":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/rWtmfwu8LaBntdyQCxPzQQ--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/la-angels-baseball-team-logo.gif.cf.png",
+    "name": "twitter:image"
+},"meta14":{
+    "content": "http://l3.yimg.com/bt/api/res/1.2/rWtmfwu8LaBntdyQCxPzQQ--/YXBwaWQ9eW5ld3M7cT04NTt3PTYwMA--/http://media.zenfs.com/en_us/Ysports/sports_team/la-angels-baseball-team-logo.gif.cf.png",
+    "name": "twitter:image:src"
+},"meta15":{
+    "content": "Los Angeles Angels on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "twitter:title"
+},"meta16":{
+    "content": "Los Angeles Angels on Yahoo! Sports - News, Scores, Standings, Rumors, Fantasy Games",
+    "name": "application-name"
+},"meta17":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta18":{
+    "content": "http://l.yimg.com/os/mit/media/p/presentation/images/icons/win8-tile-1484740.png",
+    "name": "msapplication-TileImage"
+},"meta19":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta20":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+}},"https://screen.yahoo.com/snl/michelle-obama-hillary-clinton-cold-062542033.html" : {"meta1":{
+    "content": "IE=Edge",
+    "http-equiv": "X-UA-Compatible"
+},"meta2":{
+    "charset": "UTF-8"
+},"meta3":{
+    "content": "Michelle Obama and Hillary Clinton deliver a Mother&#39;s Day message.",
+    "name": "description"
+},"meta4":{
+    "content": "Michelle Obama and Hillary Clinton Cold Open | Saturday Night Live - Yahoo Screen",
+    "property": "og:title"
+},"meta5":{
+    "content": "Michelle Obama and Hillary Clinton deliver a Mother&#39;s Day message.",
+    "property": "og:description"
+},"meta6":{
+    "content": "video.other",
+    "property": "og:type"
+},"meta7":{
+    "content": "Yahoo Screen",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "https://s1.yimg.com/os/en-US/video/video.snl.com/snl_1661_01_Michelle_Hilary_Address_Cold_Open.jpg",
+    "property": "og:image"
+},"meta9":{
+    "content": "image/jpeg",
+    "property": "og:image:type"
+},"meta10":{
+    "content": "1920",
+    "property": "og:image:width"
+},"meta11":{
+    "content": "1080",
+    "property": "og:image:height"
+},"meta12":{
+    "content": "http://l.yimg.com/rx/fbp/3/player.swf?region=US&site=ivy&onet=false&version=10.2.0&allowScriptAccess=always&allowNetworking=all&allowFullscreen=true&ise=false&pv=1&pgsid=792891666&yvapaid=&uuid=0288a140-3f93-373e-b5b5-cee8a68c6a3b",
+    "property": "og:video"
+},"meta13":{
+    "content": "https://s.yimg.com/rx/fbp/3/player.swf?region=US&site=ivy&onet=false&version=10.2.0&allowScriptAccess=always&allowNetworking=all&allowFullscreen=true&ise=false&pv=1&pgsid=792891666&yvapaid=&uuid=0288a140-3f93-373e-b5b5-cee8a68c6a3b",
+    "property": "og:video:secure_url"
+},"meta14":{
+    "content": "application/x-shockwave-flash",
+    "property": "og:video:type"
+},"meta15":{
+    "content": "624",
+    "property": "og:video:width"
+},"meta16":{
+    "content": "351",
+    "property": "og:video:height"
+},"meta17":{
+    "content": "player",
+    "name": "twitter:card"
+},"meta18":{
+    "content": "Michelle Obama and Hillary Clinton Cold Open | Saturday Night Live - Yahoo Screen",
+    "name": "twitter:title"
+},"meta19":{
+    "content": "Michelle Obama and Hillary Clinton deliver a Mother&#39;s Day message.",
+    "name": "twitter:description"
+},"meta20":{
+    "content": "https://screen.yahoo.com/michelle-obama-hillary-clinton-cold-062542033.html?format=embed",
+    "name": "twitter:player"
+},"meta21":{
+    "content": "624",
+    "name": "twitter:player:width"
+},"meta22":{
+    "content": "351",
+    "name": "twitter:player:height"
+},"meta23":{
+    "content": "https://s1.yimg.com/os/en-US/video/video.snl.com/snl_1661_01_Michelle_Hilary_Address_Cold_Open.jpg",
+    "name": "twitter:image"
+},"meta24":{
+    "content": "https://screen.yahoo.com/michelle-obama-hillary-clinton-cold-062542033.html",
+    "property": "og:url"
+},"meta25":{
+    "content": "on",
+    "http-equiv": "x-dns-prefetch-control"
+},"meta26":{
+    "content": "Yahoo Screen",
+    "name": "application-name"
+},"meta27":{
+    "content": "#6e329d",
+    "name": "msapplication-TileColor"
+},"meta28":{
+    "content": "423db4d61a29a437435ff00f86aa220e",
+    "name": "p:domain_verify"
+},"meta29":{
+    "content": "https://screen.yahoo.com/michelle-obama-hillary-clinton-cold-062542033.html",
+    "itemprop": "url"
+},"meta30":{
+    "content": "https://s1.yimg.com/os/en-US/video/video.snl.com/snl_1661_01_Michelle_Hilary_Address_Cold_Open.jpg",
+    "itemprop": "thumbnailUrl"
+},"meta31":{
+    "content": "PY0M0D0TH0M4S9",
+    "itemprop": "duration"
+}},}

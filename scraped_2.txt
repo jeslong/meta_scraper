@@ -1,0 +1,240 @@
+http://www.pitchfork.com{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+}https://soundcloud.com/no-idea-records/big-eyes-asking-you-to-stay/{
+    "charset": "utf-8"
+}http://developers.soundcloud.comnullhttp://soundcloud.tumblr.com/{
+    "charset": "utf-8"
+}http://soundcloud.tumblr.com/post/84928369232/more-than-6-400-entries-later-the-final-winner-of#note-container{
+    "charset": "utf-8"
+}http://iamkidpresh.tumblr.com/{
+    "charset": "utf-8"
+}http://claudekelly.tumblr.com/{
+    "charset": "UTF-8"
+}http://michaelcarini.com{
+    "charset": "UTF-8"
+}http://mccarini.wordpress.com/tag/omg/{
+    "charset": "UTF-8"
+}http://mccarini.wordpress.com/tag/artist/{
+    "charset": "UTF-8"
+}http://mccarini.wordpress.com/2012/12/13/san-diego-art-journal/?share=twitter{
+    "charset": "utf-8"
+}https://twitter.com/signup?context=webintent&follow=AcrylicAlchemy{
+    "charset": "utf-8"
+}http://support.twitter.com/articles/15358-how-to-deactivate-your-account{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}https://twitter.com/tos{
+    "content": "IE=edge",
+    "http-equiv": "X-UA-Compatible"
+}http://support.twitter.com/articles/18311-the-twitter-rules{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}https://support.twitter.com/articles/76915{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://twitter.com/oversanfran{
+    "charset": "utf-8"
+}https://pbs.twimg.com/profile_images/24608752/sfmoon.pngnullhttp://twitter.com/oversanfran{
+    "charset": "utf-8"
+}https://pbs.twimg.com/profile_images/24608752/sfmoon.pngnullhttps://support.twitter.com/articles/76915{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}https://twitter.com/{
+    "charset": "utf-8"
+}https://itunes.apple.com/us/app/twitter/id333903271?mt=8{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://www.apple.com/sitemap/{
+    "charset": "utf-8"
+}http://developer.apple.com/ipad/sdk/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://www.apple.com/ios/videos/{
+    "charset": "utf-8"
+}http://store.apple.com/{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/retail/learn{
+    "charset": "utf-8"
+}http://concierge.apple.com/reservation/us/en/workshop/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://www.apple.com/buy/locator/nullhttp://www.apple.com/retail/learn{
+    "charset": "utf-8"
+}http://concierge.apple.com/reservation/us/en/workshop/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://www.apple.com/ipad/{
+    "charset": "utf-8"
+}https://locate.apple.comnullhttp://www.apple.com/ipad/{
+    "charset": "utf-8"
+}http://store.apple.com/us{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/iphone{
+    "charset": "utf-8"
+}http://store.apple.com/us/browse/app{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/contact{
+    "charset": "utf-8"
+}http://developer.apple.com/contact/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://www.apple.com/store/{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/iphone/from-the-app-store{
+    "charset": "utf-8"
+}http://store.apple.com/us/iphone{
+    "content": "width=1024",
+    "name": "viewport"
+}https://secure.store.apple.com/us/order/list{
+    "content": "width=1024",
+    "name": "viewport"
+}http://store.apple.com/us/account/home{
+    "content": "width=1024",
+    "name": "viewport"
+}https://secure.store.apple.com/us/order/home/return/page{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/mac{
+    "charset": "utf-8"
+}http://store.apple.com/us/browse/app{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/mac{
+    "charset": "utf-8"
+}http://store.apple.com/us/help/contact{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/support/contact/phone_contacts.html{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://www.apple.com/mac{
+    "charset": "utf-8"
+}http://store.apple.com/us/browse/app{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/itunes{
+    "charset": "utf-8"
+}https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewMultiRoom?cc=us&fcId=496598350{
+    "content": "noindex,nofollow",
+    "name": "robots"
+}http://www.apple.com/itunes/affiliates/download/?itunesInstalled=unknown{
+    "charset": "utf-8"
+}http://store.apple.com/us{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/support{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://support.apple.com/videos/{
+    "content": "IE=EmulateIE8, IE=EmulateIE9",
+    "http-equiv": "X-UA-Compatible"
+}http://www.apple.com/support/country/?dest=videos{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://store.apple.com/{
+    "content": "width=1024",
+    "name": "viewport"
+}http://store.apple.com/us/cart{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/iphone/from-the-app-store{
+    "charset": "utf-8"
+}http://store.apple.com/{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/retail/geniusbar{
+    "charset": "utf-8"
+}http://concierge.apple.com/reservation/us/en/techsupport/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://onetoone.apple.com{
+    "charset": "utf-8"
+}http://www.apple.com/hotnews/{
+    "charset": "utf-8"
+}http://store.apple.com/{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/ipad{
+    "charset": "utf-8"
+}http://store.apple.com/us/ipad{
+    "content": "width=1024",
+    "name": "viewport"
+}https://secure.store.apple.com/us/order/list{
+    "content": "width=1024",
+    "name": "viewport"
+}http://store.apple.com/us/help{
+    "content": "width=1024",
+    "name": "viewport"
+}http://www.apple.com/support{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "content-type"
+}http://support.apple.com/kb/HT1937{
+    "content": "IE=EmulateIE8, IE=EmulateIE9",
+    "http-equiv": "X-UA-Compatible"
+}http://www.lime.com/tc/{
+    "charset": "utf-8"
+}http://myplan.lime.com/myplan-site/index.html?country=tc{
+    "content": "(c) 2013 LIME",
+    "name": "copyright"
+}http://www.lime.com/tc/legal.jsp?content=terms{
+    "charset": "utf-8"
+}http://www.twitter.com/LIMECaribbean{
+    "charset": "utf-8"
+}http://t.co/FlXQIB8h6Z{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://ow.ly/copyright{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://ow.ly/copyright{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://ow.ly{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://ow.ly{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}http://hootsuite.com/{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}https://hootsuite.com/about/community{
+    "charset": "utf-8"
+}http://blog.hootsuite.com/{
+    "charset": "UTF-8"
+}https://plus.google.com/+HootSuite/{
+    "content": "origin",
+    "name": "referrer"
+}http://ow.ly/wqzas{
+    "charset": "UTF-8"
+}http://instagram.com/hootsuite{
+    "charset": "UTF-8"
+}http://ow.ly/wqzas{
+    "charset": "UTF-8"
+}http://blog.hootsuite.com/category/resources/{
+    "charset": "UTF-8"
+}https://hootsuite.com/plans/enterprise{
+    "charset": "utf-8"
+}http://instagram.com/hootsuite{
+    "charset": "UTF-8"
+}http://blog.hootsuite.com{
+    "charset": "UTF-8"
+}http://blog.hootsuite.com/100-weeks-of-trends-viral/{
+    "charset": "UTF-8"
+}https://hootsuite.com/plans/pro{
+    "charset": "utf-8"
+}http://blog.hootsuite.com/category/resources/{
+    "charset": "UTF-8"
+}https://plus.google.com/+HootSuite/{
+    "content": "origin",
+    "name": "referrer"
+}http://ow.ly/wqzas{
+    "charset": "UTF-8"
+}http://blog.hootsuite.com{
+    "charset": "UTF-8"
+}

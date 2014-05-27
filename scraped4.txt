@@ -1,0 +1,204 @@
+{"http://www.thedissolve.com" :{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+}"https://www.facebook.com/pages/The-Dissolve/465914800154503" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/find-friends?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/games/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/FacebookApps" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/places/" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/pages/New-York-New-York/108424279189115" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/mobile/?ref=pf" :{
+    "charset": "utf-8"
+}"http://l.facebook.com/l.php?u=http%3A%2F%2Fitunes.apple.com%2Fapp%2Ffacebook%2Fid284882215&h=LAQEcmW8N&s=1" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/facebook" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/games/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/careers/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/mobile/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/policies/?ref=pf" :{
+    "charset": "utf-8"
+}"https://developers.facebook.com/policy/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/legal/terms" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/help/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/privacy/explanation" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/pages/create/?ref_type=sitefooter" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/C" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/C-1-480" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/topic/Album/108091905884770" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/help/cookies/?ref=sitefooter" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/l.php?u=https%3A%2F%2Fapp.simpli.fi%2Fopt_out&h=4AQH4QiHk&s=1" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/policies/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/l.php?u=https%3A%2F%2Fwww.facebookbrand.com%2F&h=8AQGWCZ72&s=1" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/badges/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/find-friends?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/pages/create/?ref_type=sitefooter" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/careers/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/FacebookApps" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/mobile/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/badges/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/music/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/FacebookApps" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/facebook" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/pages/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/pages/B" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/pages/B-8705041-8914800" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/pages/" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/youtube" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/privacy/explanation" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/careers/?ref=pf" :{
+    "charset": "utf-8"
+}"http://l.facebook.com/l.php?u=http%3A%2F%2Fwww.dol.gov%2Fofccp%2Fregs%2Fcompliance%2Fposters%2Fpdf%2Feeopost.pdf&h=wAQEjfRgc&s=1" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/directory/topics/Q" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/directory/topics/Q-1-120" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/topic/Qadi/629943640396351" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/facebook" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/places/" :{
+    "charset": "utf-8"
+}"http://www.facebook.com/pages/Chicago-Illinois/108659242498155" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/music/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/music/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/?ref=pf" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/FacebookApps" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/recover/initiate" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/campaign/landing.php?placement=pflo&campaign_id=402047449186&extra_1=auto" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/U" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/places/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/3" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/3-2329801-2372160" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/3-2338441-2338800" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/R" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/N" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/4" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/4-3928321-3970560" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/4-3931561-3931920" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/4" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/A-56081641-59113080" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/people/M" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/U" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/directory/topics/U-6481-6600" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/topic/Urbi-Villas-del-Prado-1ra/202427956448085" :{
+    "charset": "utf-8"
+}"https://www.facebook.com/appcenter/category/music/?ref=pf" :{
+    "charset": "utf-8"
+}}

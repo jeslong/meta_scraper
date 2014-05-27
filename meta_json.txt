@@ -1,0 +1,159 @@
+{"http://www.python.org" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "IE=edge",
+    "http-equiv": "X-UA-Compatible"
+},"meta3":{
+    "content": "Python.org",
+    "name": "application-name"
+},"meta4":{
+    "content": "The official home of the Python Programming Language",
+    "name": "msapplication-tooltip"
+},"meta5":{
+    "content": "Python.org",
+    "name": "apple-mobile-web-app-title"
+},"meta6":{
+    "content": "yes",
+    "name": "apple-mobile-web-app-capable"
+},"meta7":{
+    "content": "black",
+    "name": "apple-mobile-web-app-status-bar-style"
+},"meta8":{
+    "content": "width=device-width, initial-scale=1.0",
+    "name": "viewport"
+},"meta9":{
+    "content": "True",
+    "name": "HandheldFriendly"
+},"meta10":{
+    "content": "telephone=no",
+    "name": "format-detection"
+},"meta11":{
+    "content": "on",
+    "http-equiv": "cleartype"
+},"meta12":{
+    "content": "false",
+    "http-equiv": "imagetoolbar"
+},"meta13":{
+    "content": "/static/metro-icon-144x144-precomposed.png",
+    "name": "msapplication-TileImage"
+},"meta14":{
+    "content": "#3673a5",
+    "name": "msapplication-TileColor"
+},"meta15":{
+    "content": "#3673a5",
+    "name": "msapplication-navbutton-color"
+},"meta16":{
+    "content": "Python.org",
+    "property": "og:site_name"
+},"meta17":{
+    "content": "website",
+    "property": "og:type"
+},"meta18":{
+    "content": "Welcome to Python.org",
+    "property": "og:title"
+},"meta19":{
+    "content": "The official home of the Python Programming Language",
+    "name": "description"
+},"meta20":{
+    "content": "The official home of the Python Programming Language",
+    "name": "og:description"
+},"meta21":{
+    "content": "Python programming language object oriented web free open source software license documentation download community",
+    "name": "keywords"
+},"meta22":{
+    "content": "Python programming language object oriented web free open source software license documentation download community",
+    "property": "og:tag"
+},"meta23":{
+    "content": "",
+    "property": "og:published_time"
+},"meta24":{
+    "content": "",
+    "property": "og:modified_time"
+},"meta25":{
+    "content": "",
+    "property": "og:author"
+},"meta26":{
+    "content": "",
+    "property": "og:section"
+},"meta27":{
+    "content": "",
+    "property": "og:url"
+},"meta28":{
+    "content": "",
+    "property": "og:image"
+},"meta29":{
+    "content": "",
+    "property": "og:video"
+}},"https://wiki.python.org/moin/" : {"meta1":{
+    "content": "text/html;charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "index,follow",
+    "name": "robots"
+}},"http://moinmo.in/GPL" : {"meta1":{
+    "content": "0WyQ+hn2OtHJ8nIJUihkSAkxCHyVcRg+RXh9VxId8jU=",
+    "name": "verify-v1"
+},"meta2":{
+    "content": "text/html;charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta3":{
+    "content": "index,nofollow",
+    "name": "robots"
+}},"http://validator.w3.org/check?uri=referer" : {"meta1":{
+    "content": "text/html;charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "HTML, HyperText Markup Language, Validation,\n      W3C Markup Validation Service",
+    "name": "keywords"
+},"meta3":{
+    "content": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
+    "name": "description"
+}},"http://validator.w3.org/check?uri=referer" : {"meta1":{
+    "content": "text/html;charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "HTML, HyperText Markup Language, Validation,\n      W3C Markup Validation Service",
+    "name": "keywords"
+},"meta3":{
+    "content": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
+    "name": "description"
+}},"http://www.w3.org/" : {"meta1":{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "width=device-width",
+    "name": "viewport"
+},"meta3":{
+    "content": "The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.",
+    "name": "description"
+}},"http://www.ontos.com/web-25-celebrating-25-years-of-the-web/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "WordPress 3.5.1",
+    "name": "generator"
+}},"http://www.ontos.com/products/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "WordPress 3.5.1",
+    "name": "generator"
+}},"http://www.ontos.com/products/ontoquad/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "WordPress 3.5.1",
+    "name": "generator"
+}},"http://www.ontos.com/company/terms-of-use/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "WordPress 3.5.1",
+    "name": "generator"
+}},"http://www.ontos.com/products/ontosminer/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "WordPress 3.5.1",
+    "name": "generator"
+}}}

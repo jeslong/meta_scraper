@@ -1,0 +1,424 @@
+{"http://www.google.com" : {"meta1":{
+    "content": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "name": "description"
+},"meta2":{
+    "content": "noodp",
+    "name": "robots"
+},"meta3":{
+    "content": "/images/google_favicon_128.png",
+    "itemprop": "image"
+}},"https://plus.google.com/116899029375914044550" : {"meta1":{
+    "content": "origin",
+    "name": "referrer"
+},"meta2":{
+    "content": "Google - News and updates on Google's products, technology and more - Welcome to Google's official page. Here, you'll find product news and announcements, company updates, glimpses into what it's like to work at Google, discussions on technology and the web, and much",
+    "name": "Description"
+},"meta3":{
+    "content": "Google",
+    "itemprop": "name"
+},"meta4":{
+    "content": "News and updates on Google's products, technology and more",
+    "itemprop": "description"
+},"meta5":{
+    "content": "//lh4.googleusercontent.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAACR4g/q7H8lvgi6wU/photo.jpg",
+    "itemprop": "image"
+},"meta6":{
+    "content": "https://plus.google.com/+google",
+    "itemprop": "url"
+}},"http://www.youtube.com/user/Google" : {"meta1":{
+    "content": "Google",
+    "name": "title"
+},"meta2":{
+    "content": "Google's official YouTube channel.",
+    "name": "description"
+},"meta3":{
+    "content": "Google channel",
+    "name": "keywords"
+},"meta4":{
+    "content": "YouTube",
+    "property": "og:site_name"
+},"meta5":{
+    "content": "http://www.youtube.com/user/Google",
+    "property": "og:url"
+},"meta6":{
+    "content": "Google",
+    "property": "og:title"
+},"meta7":{
+    "content": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s900-c-k-no/photo.jpg",
+    "property": "og:image"
+},"meta8":{
+    "content": "Google's official YouTube channel.",
+    "property": "og:description"
+},"meta9":{
+    "content": "profile",
+    "property": "og:type"
+},"meta10":{
+    "content": "87741124305",
+    "property": "fb:app_id"
+},"meta11":{
+    "content": "summary",
+    "name": "twitter:card"
+},"meta12":{
+    "content": "@youtube",
+    "name": "twitter:site"
+},"meta13":{
+    "content": "http://www.youtube.com/user/Google",
+    "name": "twitter:url"
+},"meta14":{
+    "content": "Google",
+    "name": "twitter:title"
+},"meta15":{
+    "content": "Google's official YouTube channel.",
+    "name": "twitter:description"
+},"meta16":{
+    "content": "https://yt3.ggpht.com/-v0soe-ievYE/AAAAAAAAAAI/AAAAAAAAAAA/OixOH_h84Po/s900-c-k-no/photo.jpg",
+    "name": "twitter:image"
+},"meta17":{
+    "content": "YouTube",
+    "name": "twitter:app:name:iphone"
+},"meta18":{
+    "content": "544007664",
+    "name": "twitter:app:id:iphone"
+},"meta19":{
+    "content": "YouTube",
+    "name": "twitter:app:name:ipad"
+},"meta20":{
+    "content": "544007664",
+    "name": "twitter:app:id:ipad"
+},"meta21":{
+    "content": "vnd.youtube://user/UCK8sQmJBp8GCxrOtXWBpyEA",
+    "name": "twitter:app:url:iphone"
+},"meta22":{
+    "content": "vnd.youtube://user/UCK8sQmJBp8GCxrOtXWBpyEA",
+    "name": "twitter:app:url:ipad"
+},"meta23":{
+    "content": "YouTube",
+    "name": "twitter:app:name:googleplay"
+},"meta24":{
+    "content": "com.google.android.youtube",
+    "name": "twitter:app:id:googleplay"
+},"meta25":{
+    "content": "http://www.youtube.com/user/Google",
+    "name": "twitter:app:url:googleplay"
+},"meta26":{
+    "content": "Google",
+    "itemprop": "name"
+},"meta27":{
+    "content": "Google's official YouTube channel.",
+    "itemprop": "description"
+},"meta28":{
+    "content": "False",
+    "itemprop": "paid"
+},"meta29":{
+    "content": "UCK8sQmJBp8GCxrOtXWBpyEA",
+    "itemprop": "channelId"
+},"meta30":{
+    "content": "900",
+    "itemprop": "width"
+},"meta31":{
+    "content": "900",
+    "itemprop": "height"
+},"meta32":{
+    "content": "True",
+    "itemprop": "isFamilyFriendly"
+},"meta33":{
+    "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+    "itemprop": "regionsAllowed"
+},"meta34":{
+    "content": "Google",
+    "itemprop": "name"
+},"meta35":{
+    "content": "Google's official YouTube channel.",
+    "itemprop": "description"
+},"meta36":{
+    "content": "False",
+    "itemprop": "paid"
+},"meta37":{
+    "content": "UCK8sQmJBp8GCxrOtXWBpyEA",
+    "itemprop": "channelId"
+},"meta38":{
+    "content": "900",
+    "itemprop": "width"
+},"meta39":{
+    "content": "900",
+    "itemprop": "height"
+},"meta40":{
+    "content": "True",
+    "itemprop": "isFamilyFriendly"
+},"meta41":{
+    "content": "AD,AE,AF,AG,AI,AL,AM,AO,AQ,AR,AS,AT,AU,AW,AX,AZ,BA,BB,BD,BE,BF,BG,BH,BI,BJ,BL,BM,BN,BO,BQ,BR,BS,BT,BV,BW,BY,BZ,CA,CC,CD,CF,CG,CH,CI,CK,CL,CM,CN,CO,CR,CU,CV,CW,CX,CY,CZ,DE,DJ,DK,DM,DO,DZ,EC,EE,EG,EH,ER,ES,ET,FI,FJ,FK,FM,FO,FR,GA,GB,GD,GE,GF,GG,GH,GI,GL,GM,GN,GP,GQ,GR,GS,GT,GU,GW,GY,HK,HM,HN,HR,HT,HU,ID,IE,IL,IM,IN,IO,IQ,IR,IS,IT,JE,JM,JO,JP,KE,KG,KH,KI,KM,KN,KP,KR,KW,KY,KZ,LA,LB,LC,LI,LK,LR,LS,LT,LU,LV,LY,MA,MC,MD,ME,MF,MG,MH,MK,ML,MM,MN,MO,MP,MQ,MR,MS,MT,MU,MV,MW,MX,MY,MZ,NA,NC,NE,NF,NG,NI,NL,NO,NP,NR,NU,NZ,OM,PA,PE,PF,PG,PH,PK,PL,PM,PN,PR,PS,PT,PW,PY,QA,RE,RO,RS,RU,RW,SA,SB,SC,SD,SE,SG,SH,SI,SJ,SK,SL,SM,SN,SO,SR,SS,ST,SV,SX,SY,SZ,TC,TD,TF,TG,TH,TJ,TK,TL,TM,TN,TO,TR,TT,TV,TW,TZ,UA,UG,UM,US,UY,UZ,VA,VC,VE,VG,VI,VN,VU,WF,WS,YE,YT,ZA,ZM,ZW",
+    "itemprop": "regionsAllowed"
+}},"http://goo.gl/1Hz2F" : {"meta1":{
+    "name": "google",
+    "value": "notranslate"
+},"meta2":{
+    "content": "An interactive 3D visualization of the stellar neighborhood, including over 100,000 nearby stars. Created for the Google Chrome web browser.",
+    "name": "description"
+},"meta3":{
+    "charset": "utf-8"
+},"meta4":{
+    "content": "user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, initial-scale=1.0, user-scalable=no",
+    "name": "viewport"
+}},"http://en.wikipedia.org/wiki/Sun" : {"meta1":{
+    "charset": "UTF-8"
+},"meta2":{
+    "content": "MediaWiki 1.24wmf3",
+    "name": "generator"
+},"meta3":{
+    "content": "",
+    "name": "ResourceLoaderDynamicStyles"
+}},"http://dx.doi.org/10.1038%2F260153a0" : {"meta1":{
+    "content": "text/html; charset=utf-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "noarchive",
+    "name": "robots"
+},"meta3":{
+    "content": "\u00a9 1976 Nature Publishing Group",
+    "name": "prism.copyright"
+},"meta4":{
+    "content": "permissions@nature.com",
+    "name": "prism.rightsAgent"
+},"meta5":{
+    "content": "1976-03-11",
+    "name": "prism.publicationDate"
+},"meta6":{
+    "content": "260",
+    "name": "prism.volume"
+},"meta7":{
+    "content": "5547",
+    "name": "prism.number"
+},"meta8":{
+    "content": "Letters to Editor",
+    "name": "prism.section"
+},"meta9":{
+    "content": "153",
+    "name": "prism.startingPage"
+},"meta10":{
+    "content": "155",
+    "name": "prism.endingPage"
+},"meta11":{
+    "content": "",
+    "name": "prism.publicationName"
+},"meta12":{
+    "content": "${footerJournalISSN}",
+    "name": "prism.issn"
+},"meta13":{
+    "content": "${footerJournalEISSN}",
+    "name": "prism.eIssn"
+},"meta14":{
+    "content": "Nature Publishing Group",
+    "name": "dc.publisher"
+},"meta15":{
+    "content": "en",
+    "name": "dc.language"
+},"meta16":{
+    "content": "\u00a9 1976 Nature Publishing Group",
+    "name": "dc.rights"
+},"meta17":{
+    "content": "Retinal sensitivity to damage from short wavelength light",
+    "name": "dc.title"
+},"meta18":{
+    "content": "WILLIAM T. HAM",
+    "name": "dc.creator"
+},"meta19":{
+    "content": "HAROLD A. MUELLER",
+    "name": "dc.creator"
+},"meta20":{
+    "content": "DAVID H. SLINEY",
+    "name": "dc.creator"
+},"meta21":{
+    "content": "doi:10.1038/260153a0",
+    "name": "dc.identifier"
+},"meta22":{
+    "content": "1976-03-11",
+    "name": "dc.date"
+},"meta23":{
+    "content": ", Published online: 11 March 1976; | doi:10.1038/260153a0",
+    "name": "dc.source"
+},"meta24":{
+    "content": "",
+    "name": "citation_fulltext_world_readable"
+},"meta25":{
+    "content": "Nature Publishing Group",
+    "name": "citation_publisher"
+},"meta26":{
+    "content": "WILLIAM T. HAM",
+    "name": "citation_author"
+},"meta27":{
+    "content": "HAROLD A. MUELLER",
+    "name": "citation_author"
+},"meta28":{
+    "content": "DAVID H. SLINEY",
+    "name": "citation_author"
+},"meta29":{
+    "content": "Retinal sensitivity to damage from short wavelength light",
+    "name": "citation_title"
+},"meta30":{
+    "content": "1976-03-11",
+    "name": "citation_date"
+},"meta31":{
+    "content": "1976-03-11",
+    "name": "citation_online_date"
+},"meta32":{
+    "content": "260",
+    "name": "citation_volume"
+},"meta33":{
+    "content": "5547",
+    "name": "citation_issue"
+},"meta34":{
+    "content": "153",
+    "name": "citation_firstpage"
+},"meta35":{
+    "content": "doi:10.1038/260153a0",
+    "name": "citation_doi"
+},"meta36":{
+    "content": "",
+    "name": "citation_journal_title"
+},"meta37":{
+    "content": "www.nature.com",
+    "name": "DCS.dcssip"
+},"meta38":{
+    "content": "Yes",
+    "name": "Access"
+},"meta39":{
+    "content": "",
+    "name": "WT.cg_n"
+},"meta40":{
+    "content": "Letters to Editor",
+    "name": "WT.cg_s"
+},"meta41":{
+    "content": "",
+    "name": "WT.i_dcsvid"
+},"meta42":{
+    "content": "",
+    "name": "WT.ec_id"
+},"meta43":{
+    "content": "67X180X248X16",
+    "name": "emanating"
+}},"http://npg.nature.com/npg/servlet/Content?data=xml/08_account.xml&style=xml/08_account.xsl" : {"meta1":{
+    "content": "www.nature.com",
+    "name": "DCS.dcssip"
+},"meta2":{
+    "content": "Yes",
+    "name": "Access"
+},"meta3":{
+    "content": "Subscriptions",
+    "name": "WT.cg_n"
+},"meta4":{
+    "content": "",
+    "name": "WT.i_dcsvid"
+},"meta5":{
+    "content": "",
+    "name": "WT.ec_id"
+},"meta6":{
+    "content": "67X180X248X16",
+    "name": "emanating"
+}},"http://npg.nature.com/media/nature/index.html" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "width=device-width, initial-scale=1",
+    "name": "viewport"
+},"meta3":{
+    "content": "en_US",
+    "property": "og:locale"
+},"meta4":{
+    "content": "article",
+    "property": "og:type"
+},"meta5":{
+    "content": "Welcome to advertising@npg - Advertising at NPG",
+    "property": "og:title"
+},"meta6":{
+    "content": "Welcome to our website for advertising clients where you can find all of our media information, inspiring case studies, helpful guidelines and best practice. Follow our blog Here at NPG we are dedicated\u00a0to staying current on the latest marketing trends, and as fellow marketers in this industry, we\u2019d like to share some of our most [\u2026]",
+    "property": "og:description"
+},"meta7":{
+    "content": "http://www.nature.com/advertising/",
+    "property": "og:url"
+},"meta8":{
+    "content": "Advertising at NPG",
+    "property": "og:site_name"
+},"meta9":{
+    "content": "Advertising Gateway",
+    "name": "WT.cg_n"
+},"meta10":{
+    "content": "Home",
+    "name": "WT.cg_s"
+}},"http://www.nature.com/advertising/category/inspiration/" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "width=device-width, initial-scale=1",
+    "name": "viewport"
+},"meta3":{
+    "content": "en_US",
+    "property": "og:locale"
+},"meta4":{
+    "content": "website",
+    "property": "og:type"
+},"meta5":{
+    "content": "Inspiration Archives - Advertising at NPG",
+    "property": "og:title"
+},"meta6":{
+    "content": "http://www.nature.com/advertising/category/inspiration/",
+    "property": "og:url"
+},"meta7":{
+    "content": "Advertising at NPG",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Advertising Gateway",
+    "name": "WT.cg_n"
+},"meta9":{
+    "content": "Blog",
+    "name": "WT.cg_s"
+}},"http://www.nature.com/advertising/author/Kim-MacLean/" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "width=device-width, initial-scale=1",
+    "name": "viewport"
+},"meta3":{
+    "content": "en_US",
+    "property": "og:locale"
+},"meta4":{
+    "content": "website",
+    "property": "og:type"
+},"meta5":{
+    "content": "Marketing Team, Author at Advertising at NPG",
+    "property": "og:title"
+},"meta6":{
+    "content": "http://www.nature.com/advertising/author/kim-maclean/",
+    "property": "og:url"
+},"meta7":{
+    "content": "Advertising at NPG",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Advertising Gateway",
+    "name": "WT.cg_n"
+},"meta9":{
+    "content": "Blog",
+    "name": "WT.cg_s"
+}},"http://www.nature.com/advertising/tag/bonus-distribution-2/" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "width=device-width, initial-scale=1",
+    "name": "viewport"
+},"meta3":{
+    "content": "en_US",
+    "property": "og:locale"
+},"meta4":{
+    "content": "website",
+    "property": "og:type"
+},"meta5":{
+    "content": "bonus distribution Archives - Advertising at NPG",
+    "property": "og:title"
+},"meta6":{
+    "content": "http://www.nature.com/advertising/tag/bonus-distribution-2/",
+    "property": "og:url"
+},"meta7":{
+    "content": "Advertising at NPG",
+    "property": "og:site_name"
+},"meta8":{
+    "content": "Advertising Gateway",
+    "name": "WT.cg_n"
+},"meta9":{
+    "content": "Blog",
+    "name": "WT.cg_s"
+}}}
