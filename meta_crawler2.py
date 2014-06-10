@@ -29,10 +29,12 @@ sys.stdout = streamWriter(sys.stdout)
 
 def soupify(url):
     # Parses html with Beautiful Soup
-	r = requests.get(url)
-	soup = BeautifulSoup(r.text)
-	return soup
-    # TODO: Add Try/Except blocks, Exception ConnectionError
+	try:
+		r = requests.get(url)
+		soup = BeautifulSoup(r.text)
+		return soup
+	except ConnectionError:
+		input("Could not connect to site. Please enter a new url:")
 
 def randomlink(soup):
     # Finds all links on page and stores them in a list. Picks random link from list and returns it
@@ -109,8 +111,6 @@ def main(depth=10):
 				f.write('}')
 		soup = newsoup
 		page = newpage
-	#~ with open("meta_json.txt", "a+b") as f:
-		#~ f.write('}')
 
 if __name__ == '__main__':
 	main()
