@@ -29,12 +29,9 @@ sys.stdout = streamWriter(sys.stdout)
 
 def soupify(url):
     # Parses html with Beautiful Soup
-	try:
-		r = requests.get(url)
-		soup = BeautifulSoup(r.text)
-		return soup
-	except ConnectionError:
-		input("Could not connect to site. Please enter a new url:")
+	r = requests.get(url)
+	soup = BeautifulSoup(r.text)
+	return soup
 
 def randomlink(soup):
     # Finds all links on page and stores them in a list. Picks random link from list and returns it

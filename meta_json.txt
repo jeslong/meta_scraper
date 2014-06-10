@@ -7,18 +7,6 @@
 },"meta3":{
     "content": "/images/google_favicon_128.png",
     "itemprop": "image"
-}},"https://drive.google.com/?tab=wo" : {"meta1":{
-    "content": "0; url='https://www.google.com/accounts/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/?tab%3Dwo&followup=https://drive.google.com/?tab%3Dwo&ltmpl=drive&emr=1'",
-    "http-equiv": "refresh"
-}},"http://www.google.com" : {"meta1":{
-    "content": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
-    "name": "description"
-},"meta2":{
-    "content": "noodp",
-    "name": "robots"
-},"meta3":{
-    "content": "/images/google_favicon_128.png",
-    "itemprop": "image"
 }},"http://news.google.com/nwshp?hl=en&tab=wn" : {"meta1":{
     "content": "IE=8,IE=9",
     "http-equiv": "X-UA-Compatible"
@@ -31,106 +19,135 @@
 },"meta4":{
     "content": "0;url=http://news.google.com/news?hl=en&tab=wn&pz=1&cf=all&ned=us&q&js=0",
     "http-equiv": "refresh"
-}},"https://plus.google.com/+FacetheNation/posts/QZem8MyEVfE" : {"meta1":{
-    "content": "origin",
-    "name": "referrer"
+}},"http://dailydigestnews.com/2014/06/ebola-a-growing-concern-as-sierra-leone-death-toll-doubles-in-one-week/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
 },"meta2":{
-    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban\u2026",
+    "content": "Ebola a growing concern as Sierra Leone death toll doubles in one week",
     "property": "og:title"
 },"meta3":{
-    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban\u2026",
-    "name": "twitter:title"
+    "content": "http://dailydigestnews.com/2014/06/ebola-a-growing-concern-as-sierra-leone-death-toll-doubles-in-one-week/",
+    "property": "og:url"
 },"meta4":{
-    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
-    "name": "Description",
-    "itemprop": "description"
-},"meta5":{
-    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
-    "property": "og:description"
-},"meta6":{
-    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
-    "name": "twitter:description"
-},"meta7":{
-    "content": "summary_large_image",
-    "name": "twitter:card"
-}},"https://mail.google.com/mail/?tab=Xm" : {"meta1":{
-    "charset": "utf-8"
-},"meta2":{
-    "content": "width=300, initial-scale=1",
-    "name": "viewport"
-},"meta3":{
-    "content": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
-    "name": "description"
-}},"https://support.google.com/accounts/?p=securesignin&hl=en" : {"meta1":{
-    "charset": "utf-8"
-},"meta2":{
-    "content": "IE=edge,chrome=1",
-    "http-equiv": "X-UA-Compatible"
-},"meta3":{
-    "content": "<p>If you're signing in to your Google Account from a device that only you use (for example, a personal laptop), we recommend leaving the \"Stay signed in\" checkbox selected. This ensures that you won ",
-    "name": "description"
-},"meta4":{
-    "content": "Google Help Center",
-    "name": "keywords"
-},"meta5":{
-    "content": "follow,index",
-    "name": "robots"
-},"meta6":{
-    "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
-    "name": "viewport"
-}},"https://maps.google.com/maps?hl=en" : {"meta1":{
-    "content": "text/html;charset=ISO-8859-1",
-    "http-equiv": "content-type"
-},"meta2":{
-    "content": "Find local businesses, view maps and get driving directions in Google Maps",
-    "name": "description"
-},"meta3":{
-    "content": "summary",
-    "name": "twitter:card"
-},"meta4":{
-    "content": "website",
-    "property": "og:type"
-},"meta5":{
-    "content": "Google Maps",
-    "property": "og:title"
-},"meta6":{
-    "content": "Find local businesses, view maps and get driving directions in Google Maps",
-    "property": "og:description"
-},"meta7":{
-    "content": "https://maps.gstatic.com/mapfiles/maps-64.png",
+    "content": "http://dailydigestnews.com/news/wp-content/uploads/Ebola.jpg",
     "property": "og:image"
-},"meta8":{
-    "content": "0; URL=/m?hl=en&oi=nojs",
-    "http-equiv": "refresh"
-}},"http://maps.google.com/support?hl=en" : {"meta1":{
+},"meta5":{
+    "content": "http://dailydigestnews.com/2014/06/ebola-a-growing-concern-as-sierra-leone-death-toll-doubles-in-one-week/",
+    "name": "syndication-source"
+}},"http://dailydigestnews.com/news/beastie-boys-victorious-in-1-7-million-monster-energy-lawsuit/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "Beastie Boys victorious in $1.7 million Monster Energy lawsuit",
+    "property": "og:title"
+},"meta3":{
+    "content": "http://dailydigestnews.com/2014/06/beastie-boys-victorious-in-1-7-million-monster-energy-lawsuit/",
+    "property": "og:url"
+},"meta4":{
+    "content": "http://dailydigestnews.com/news/wp-content/uploads/monster.jpg",
+    "property": "og:image"
+},"meta5":{
+    "content": "http://dailydigestnews.com/2014/06/beastie-boys-victorious-in-1-7-million-monster-energy-lawsuit/",
+    "name": "syndication-source"
+}},"http://dailydigestnews.com/news/koalas-are-the-coolest-tree-huggers-on-earth/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "Koalas are the coolest tree-huggers on Earth",
+    "property": "og:title"
+},"meta3":{
+    "content": "http://dailydigestnews.com/2014/06/koalas-are-the-coolest-tree-huggers-on-earth/",
+    "property": "og:url"
+},"meta4":{
+    "content": "http://dailydigestnews.com/news/wp-content/uploads/3_Koala_hugging_tree_thermal_SGriffiths.jpg",
+    "property": "og:image"
+},"meta5":{
+    "content": "http://dailydigestnews.com/2014/06/koalas-are-the-coolest-tree-huggers-on-earth/",
+    "name": "syndication-source"
+}},"http://dailydigestnews.com/news/mers-transmission-officially-linked-from-camels-to-humans/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "MERS transmission officially linked from camels to humans",
+    "property": "og:title"
+},"meta3":{
+    "content": "http://dailydigestnews.com/2014/06/mers-transmission-officially-linked-from-camels-to-humans/",
+    "property": "og:url"
+},"meta4":{
+    "content": "http://dailydigestnews.com/news/wp-content/uploads/camel.jpg",
+    "property": "og:image"
+},"meta5":{
+    "content": "http://dailydigestnews.com/2014/06/mers-transmission-officially-linked-from-camels-to-humans/",
+    "name": "syndication-source"
+}},"http://dailydigestnews.com/news/spiders-play-webs-like-harps/" : {"meta1":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "Spiders play their webs like harps from hell",
+    "property": "og:title"
+},"meta3":{
+    "content": "http://dailydigestnews.com/2014/06/spiders-play-webs-like-harps/",
+    "property": "og:url"
+},"meta4":{
+    "content": "http://dailydigestnews.com/news/wp-content/uploads/Spinnennetzpd.jpg",
+    "property": "og:image"
+},"meta5":{
+    "content": "http://dailydigestnews.com/2014/06/spiders-play-webs-like-harps/",
+    "name": "syndication-source"
+}},"http://disqus.com" : {"meta1":{
     "charset": "utf-8"
 },"meta2":{
-    "content": "IE=edge,chrome=1",
-    "http-equiv": "X-UA-Compatible"
+    "content": "width=device-width, initial-scale=1.0",
+    "name": "viewport"
 },"meta3":{
-    "content": "Official Maps Help Center where you can find tips and tutorials on using Maps and other answers to frequently asked questions.",
+    "content": "",
     "name": "description"
 },"meta4":{
-    "content": "Google Help Center",
-    "name": "keywords"
-},"meta5":{
-    "content": "follow,index",
-    "name": "robots"
-},"meta6":{
-    "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
-    "name": "viewport"
-}},"https://mail.google.com/mail/" : {"meta1":{
-    "charset": "utf-8"
+    "content": "",
+    "name": "author"
+}},"http://disqus.com/admin/wordpress/" : {"meta1":{
+    "content": "text/html;charset=UTF-8",
+    "http-equiv": "Content-Type"
 },"meta2":{
-    "content": "width=300, initial-scale=1",
-    "name": "viewport"
+    "content": "en-us",
+    "http-equiv": "Content-Language"
 },"meta3":{
-    "content": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "content": "Disqus, disqus.com, comments, blog, blogs, discussion",
+    "name": "keywords"
+},"meta4":{
+    "content": "Disqus is a global comment system that improves discussion on websites and connects conversations across the web.",
     "name": "description"
-}},"https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F" : {"meta1":{
-    "content": "width=device-width",
-    "name": "viewport"
+},"meta5":{
+    "name": "google",
+    "value": "notranslate"
+}},"http://disqus.com/admin/movabletype/" : {"meta1":{
+    "content": "text/html;charset=UTF-8",
+    "http-equiv": "Content-Type"
 },"meta2":{
-    "content": "text/html; charset=utf-8",
-    "http-equiv": "content-type"
+    "content": "en-us",
+    "http-equiv": "Content-Language"
+},"meta3":{
+    "content": "Disqus, disqus.com, comments, blog, blogs, discussion",
+    "name": "keywords"
+},"meta4":{
+    "content": "Disqus is a global comment system that improves discussion on websites and connects conversations across the web.",
+    "name": "description"
+},"meta5":{
+    "name": "google",
+    "value": "notranslate"
+}},"http://disqus.com/admin/universalcode/" : {"meta1":{
+    "content": "text/html;charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta2":{
+    "content": "en-us",
+    "http-equiv": "Content-Language"
+},"meta3":{
+    "content": "Disqus, disqus.com, comments, blog, blogs, discussion",
+    "name": "keywords"
+},"meta4":{
+    "content": "Disqus is a global comment system that improves discussion on websites and connects conversations across the web.",
+    "name": "description"
+},"meta5":{
+    "name": "google",
+    "value": "notranslate"
 }}}
