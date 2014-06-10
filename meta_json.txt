@@ -1,159 +1,136 @@
-{"http://www.python.org" : {"meta1":{
+{"http://www.google.com" : {"meta1":{
+    "content": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "name": "description"
+},"meta2":{
+    "content": "noodp",
+    "name": "robots"
+},"meta3":{
+    "content": "/images/google_favicon_128.png",
+    "itemprop": "image"
+}},"https://drive.google.com/?tab=wo" : {"meta1":{
+    "content": "0; url='https://www.google.com/accounts/ServiceLogin?service=wise&passive=1209600&continue=https://drive.google.com/?tab%3Dwo&followup=https://drive.google.com/?tab%3Dwo&ltmpl=drive&emr=1'",
+    "http-equiv": "refresh"
+}},"http://www.google.com" : {"meta1":{
+    "content": "Search the world's information, including webpages, images, videos and more. Google has many special features to help you find exactly what you're looking for.",
+    "name": "description"
+},"meta2":{
+    "content": "noodp",
+    "name": "robots"
+},"meta3":{
+    "content": "/images/google_favicon_128.png",
+    "itemprop": "image"
+}},"http://news.google.com/nwshp?hl=en&tab=wn" : {"meta1":{
+    "content": "IE=8,IE=9",
+    "http-equiv": "X-UA-Compatible"
+},"meta2":{
+    "content": "text/html; charset=UTF-8",
+    "http-equiv": "Content-Type"
+},"meta3":{
+    "content": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.",
+    "name": "description"
+},"meta4":{
+    "content": "0;url=http://news.google.com/news?hl=en&tab=wn&pz=1&cf=all&ned=us&q&js=0",
+    "http-equiv": "refresh"
+}},"https://plus.google.com/+FacetheNation/posts/QZem8MyEVfE" : {"meta1":{
+    "content": "origin",
+    "name": "referrer"
+},"meta2":{
+    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban\u2026",
+    "property": "og:title"
+},"meta3":{
+    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban\u2026",
+    "name": "twitter:title"
+},"meta4":{
+    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
+    "name": "Description",
+    "itemprop": "description"
+},"meta5":{
+    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
+    "property": "og:description"
+},"meta6":{
+    "content": "Sen. John McCain, R-Ariz., says Sgt. Bowe Bergdahl's release from Taliban captivity is good news, but we need to know more information about Guantanamo\u2026  -  Face the Nation - Google+",
+    "name": "twitter:description"
+},"meta7":{
+    "content": "summary_large_image",
+    "name": "twitter:card"
+}},"https://mail.google.com/mail/?tab=Xm" : {"meta1":{
     "charset": "utf-8"
 },"meta2":{
-    "content": "IE=edge",
+    "content": "width=300, initial-scale=1",
+    "name": "viewport"
+},"meta3":{
+    "content": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+    "name": "description"
+}},"https://support.google.com/accounts/?p=securesignin&hl=en" : {"meta1":{
+    "charset": "utf-8"
+},"meta2":{
+    "content": "IE=edge,chrome=1",
     "http-equiv": "X-UA-Compatible"
 },"meta3":{
-    "content": "Python.org",
-    "name": "application-name"
+    "content": "<p>If you're signing in to your Google Account from a device that only you use (for example, a personal laptop), we recommend leaving the \"Stay signed in\" checkbox selected. This ensures that you won ",
+    "name": "description"
 },"meta4":{
-    "content": "The official home of the Python Programming Language",
-    "name": "msapplication-tooltip"
+    "content": "Google Help Center",
+    "name": "keywords"
 },"meta5":{
-    "content": "Python.org",
-    "name": "apple-mobile-web-app-title"
+    "content": "follow,index",
+    "name": "robots"
 },"meta6":{
-    "content": "yes",
-    "name": "apple-mobile-web-app-capable"
-},"meta7":{
-    "content": "black",
-    "name": "apple-mobile-web-app-status-bar-style"
-},"meta8":{
-    "content": "width=device-width, initial-scale=1.0",
+    "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
     "name": "viewport"
-},"meta9":{
-    "content": "True",
-    "name": "HandheldFriendly"
-},"meta10":{
-    "content": "telephone=no",
-    "name": "format-detection"
-},"meta11":{
-    "content": "on",
-    "http-equiv": "cleartype"
-},"meta12":{
-    "content": "false",
-    "http-equiv": "imagetoolbar"
-},"meta13":{
-    "content": "/static/metro-icon-144x144-precomposed.png",
-    "name": "msapplication-TileImage"
-},"meta14":{
-    "content": "#3673a5",
-    "name": "msapplication-TileColor"
-},"meta15":{
-    "content": "#3673a5",
-    "name": "msapplication-navbutton-color"
-},"meta16":{
-    "content": "Python.org",
-    "property": "og:site_name"
-},"meta17":{
+}},"https://maps.google.com/maps?hl=en" : {"meta1":{
+    "content": "text/html;charset=ISO-8859-1",
+    "http-equiv": "content-type"
+},"meta2":{
+    "content": "Find local businesses, view maps and get driving directions in Google Maps",
+    "name": "description"
+},"meta3":{
+    "content": "summary",
+    "name": "twitter:card"
+},"meta4":{
     "content": "website",
     "property": "og:type"
-},"meta18":{
-    "content": "Welcome to Python.org",
+},"meta5":{
+    "content": "Google Maps",
     "property": "og:title"
-},"meta19":{
-    "content": "The official home of the Python Programming Language",
-    "name": "description"
-},"meta20":{
-    "content": "The official home of the Python Programming Language",
-    "name": "og:description"
-},"meta21":{
-    "content": "Python programming language object oriented web free open source software license documentation download community",
-    "name": "keywords"
-},"meta22":{
-    "content": "Python programming language object oriented web free open source software license documentation download community",
-    "property": "og:tag"
-},"meta23":{
-    "content": "",
-    "property": "og:published_time"
-},"meta24":{
-    "content": "",
-    "property": "og:modified_time"
-},"meta25":{
-    "content": "",
-    "property": "og:author"
-},"meta26":{
-    "content": "",
-    "property": "og:section"
-},"meta27":{
-    "content": "",
-    "property": "og:url"
-},"meta28":{
-    "content": "",
+},"meta6":{
+    "content": "Find local businesses, view maps and get driving directions in Google Maps",
+    "property": "og:description"
+},"meta7":{
+    "content": "https://maps.gstatic.com/mapfiles/maps-64.png",
     "property": "og:image"
-},"meta29":{
-    "content": "",
-    "property": "og:video"
-}},"https://wiki.python.org/moin/" : {"meta1":{
-    "content": "text/html;charset=utf-8",
-    "http-equiv": "Content-Type"
+},"meta8":{
+    "content": "0; URL=/m?hl=en&oi=nojs",
+    "http-equiv": "refresh"
+}},"http://maps.google.com/support?hl=en" : {"meta1":{
+    "charset": "utf-8"
 },"meta2":{
-    "content": "index,follow",
-    "name": "robots"
-}},"http://moinmo.in/GPL" : {"meta1":{
-    "content": "0WyQ+hn2OtHJ8nIJUihkSAkxCHyVcRg+RXh9VxId8jU=",
-    "name": "verify-v1"
-},"meta2":{
-    "content": "text/html;charset=utf-8",
-    "http-equiv": "Content-Type"
+    "content": "IE=edge,chrome=1",
+    "http-equiv": "X-UA-Compatible"
 },"meta3":{
-    "content": "index,nofollow",
-    "name": "robots"
-}},"http://validator.w3.org/check?uri=referer" : {"meta1":{
-    "content": "text/html;charset=utf-8",
-    "http-equiv": "Content-Type"
-},"meta2":{
-    "content": "HTML, HyperText Markup Language, Validation,\n      W3C Markup Validation Service",
-    "name": "keywords"
-},"meta3":{
-    "content": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
+    "content": "Official Maps Help Center where you can find tips and tutorials on using Maps and other answers to frequently asked questions.",
     "name": "description"
-}},"http://validator.w3.org/check?uri=referer" : {"meta1":{
-    "content": "text/html;charset=utf-8",
-    "http-equiv": "Content-Type"
-},"meta2":{
-    "content": "HTML, HyperText Markup Language, Validation,\n      W3C Markup Validation Service",
+},"meta4":{
+    "content": "Google Help Center",
     "name": "keywords"
-},"meta3":{
-    "content": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
-    "name": "description"
-}},"http://www.w3.org/" : {"meta1":{
-    "content": "text/html; charset=utf-8",
-    "http-equiv": "Content-Type"
+},"meta5":{
+    "content": "follow,index",
+    "name": "robots"
+},"meta6":{
+    "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+    "name": "viewport"
+}},"https://mail.google.com/mail/" : {"meta1":{
+    "charset": "utf-8"
 },"meta2":{
-    "content": "width=device-width",
+    "content": "width=300, initial-scale=1",
     "name": "viewport"
 },"meta3":{
-    "content": "The World Wide Web Consortium (W3C) is an international community where Member organizations, a full-time staff, and the public work together to develop Web standards.",
+    "content": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
     "name": "description"
-}},"http://www.ontos.com/web-25-celebrating-25-years-of-the-web/" : {"meta1":{
-    "content": "text/html; charset=UTF-8",
-    "http-equiv": "content-type"
+}},"https://accounts.google.com/RecoverAccount?service=mail&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F" : {"meta1":{
+    "content": "width=device-width",
+    "name": "viewport"
 },"meta2":{
-    "content": "WordPress 3.5.1",
-    "name": "generator"
-}},"http://www.ontos.com/products/" : {"meta1":{
-    "content": "text/html; charset=UTF-8",
+    "content": "text/html; charset=utf-8",
     "http-equiv": "content-type"
-},"meta2":{
-    "content": "WordPress 3.5.1",
-    "name": "generator"
-}},"http://www.ontos.com/products/ontoquad/" : {"meta1":{
-    "content": "text/html; charset=UTF-8",
-    "http-equiv": "content-type"
-},"meta2":{
-    "content": "WordPress 3.5.1",
-    "name": "generator"
-}},"http://www.ontos.com/company/terms-of-use/" : {"meta1":{
-    "content": "text/html; charset=UTF-8",
-    "http-equiv": "content-type"
-},"meta2":{
-    "content": "WordPress 3.5.1",
-    "name": "generator"
-}},"http://www.ontos.com/products/ontosminer/" : {"meta1":{
-    "content": "text/html; charset=UTF-8",
-    "http-equiv": "content-type"
-},"meta2":{
-    "content": "WordPress 3.5.1",
-    "name": "generator"
 }}}

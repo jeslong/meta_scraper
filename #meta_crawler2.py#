@@ -1,3 +1,6 @@
+
+
+
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
@@ -28,14 +31,11 @@ streamWriter = codecs.lookup('utf-8')[-1]
 sys.stdout = streamWriter(sys.stdout)
 
 def soupify(url):
-    # Parses html with Beautiful Soup
 	r = requests.get(url)
 	soup = BeautifulSoup(r.text)
 	return soup
-    # TODO: Add Try/Except blocks, Exception ConnectionError
 
 def randomlink(soup):
-    # Finds all links on page and stores them in a list. Picks random link from list and returns it
 	anchors = soup.find_all('a')
 	#~ print anchors
 	links = []
@@ -57,10 +57,9 @@ def randomlink(soup):
 		print "Dead End."
 		newurl = input("Enter new starting url:")
 		return newurl
-	# TODO: Add Try/Except blocks
+	# TODO: Add Try/Except blocks, Exception ConnectionError
 	
 def store_metas(soup):
-    # Finds all meta tags on given page and stores values and attributes to a file in valid JSON format
 	meta_count = 0
 	metas = soup.find_all('meta')
 	meta_num = len(metas)
