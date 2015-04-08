@@ -1,7 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #
-#  meta_crawler.py
+#  meta_crawler_0.3.py
 #  
 #  Copyright 2014 utilite <utilite@utilite-ubuntu-desktop>
 #  
@@ -29,7 +29,7 @@ import couchdb
 
 streamWriter = codecs.lookup('utf-8')[-1]
 sys.stdout = streamWriter(sys.stdout)
-""
+
 def soupify(url):
     # Parses html with Beautiful Soup
 	r = requests.get(url)
@@ -48,23 +48,14 @@ def randomlink(soup):
 			href = str(href)
 		if href.strip().startswith("http"):
 			links.append(href)
-	"""
-	if len(links) > 1:
-		newurl = links[random.randint(0,len(links)-1)]
-		print newurl
-		return newurl
-	elif len(links) > 0:
-		newurl = links[0]
-		print newurl
-		return newurl
-    """
+
 	if links:
 		newurl = random.choice(links)
 		print newurl
 		return newurl
 	else:
 		print "Dead End."
-		newurl = input("Enter new starting url:")
+		newurl = input("Enter new starting url: ")
 		return newurl
 	# TODO: Add Try/Except blocks
 
@@ -84,7 +75,7 @@ def build_meta_store(url):
             soup = soupify(url)
         except:
             if soup is None:
-                url = input("New url")
+                url = input("New url: ")
             else:
                 url = randomlink(soup)
             continue
@@ -98,59 +89,6 @@ def write_meta_store(meta_store):
     with open("%s.json" % datetime.isoformat(datetime.now()), "w") as f:
         f.write(meta_json)
 
-def store_metas(soup):
-    # Finds all meta tags on given page and stores values and attributes to a file in valid JSON format
-    meta_count = 0
-    metas = soup.find_all('meta')
-    meta_num = len(metas)
-    print(build_meta_tags(soup))
-    if meta_num > 0:
-		for meta in metas:
-			meta_count += 1
-			object_name = ""
-			with open("meta_json.txt", "a+b") as f:
-				f.write(object_name.join(['"meta', str(meta_count), '":']))
-			meta_attributes = meta.attrs
-			metas_db = json.dumps(meta_attributes, indent=4, separators=(',', ': '))
-			with open("meta_json.txt", "a+b") as f:
-				f.write(metas_db)
-				if meta_count < meta_num:
-					f.write(",")
-				else:
-					f.write("}")
-    else:
-		with open("meta_json.txt", "a+b") as f:
-			f.write('}')
-
-"""
-def main(depth=10):
-	pagecount = 0
-	with open ("meta_json.txt", "w") as f:
-		f.write('{')
-	page = input("Enter a URL to scrape:")
-	with open ("meta_json.txt", "a+b") as f:
-		object_name = ""
-		f.write(object_name.join(['"', page, '" : {']))
-	soup = soupify(page)
-	store_metas(soup)
-	with open ("meta_json.txt", "a+b") as f:
-		f.write(",")
-	for i in range(depth):
-		pagecount += 1
-		newpage = randomlink(soup)
-		with open("meta_json.txt", "a+b") as f:
-			object_name = ""
-			f.write(object_name.join(['"', newpage, '" : {']))
-		newsoup = soupify(newpage)
-		store_metas(newsoup)
-		with open("meta_json.txt", "a+b") as f:
-			if pagecount < depth:
-				f.write(',')
-			else:
-				f.write('}')
-		soup = newsoup
-        page = newpage
-"""
 
 if __name__ == '__main__':
 #	main()
