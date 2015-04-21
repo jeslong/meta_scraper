@@ -1,0 +1,570 @@
+{
+    "https://www.atlassian.com/company/privacy": {
+        "meta1": {
+            "content": "text/html; charset=utf-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "3BC1DA51CBC3C49088F3C36D5E1636DC",
+            "name": "msvalidate.01"
+        },
+        "meta3": {
+            "content": "!",
+            "name": "fragment"
+        },
+        "meta4": {
+            "content": "width=device-width, initial-scale=1",
+            "name": "viewport"
+        },
+        "meta5": {
+            "content": "Privacy Policy | Atlassian",
+            "property": "og:title"
+        },
+        "meta6": {
+            "content": "Atlassian",
+            "property": "og:site_name"
+        },
+        "meta7": {
+            "content": "website",
+            "property": "og:type"
+        },
+        "meta8": {
+            "content": "/docroot/wac/resources/wac/img/social-icons/atlassian_logo.jpg",
+            "property": "og:image"
+        },
+        "meta9": {
+            "content": "900",
+            "property": "og:image:width"
+        },
+        "meta10": {
+            "content": "900",
+            "property": "og:image:height"
+        },
+        "meta11": {
+            "content": "image/jpeg",
+            "property": "og:image:type"
+        },
+        "meta12": {
+            "content": "115407078489594",
+            "property": "fb:admins"
+        },
+        "meta13": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta14": {
+            "content": "@atlassian",
+            "name": "twitter:site"
+        },
+        "meta15": {
+            "content": "Atlassian",
+            "name": "application-name"
+        },
+        "meta16": {
+            "content": "#FFFFFF",
+            "name": "msapplication-TileColor"
+        },
+        "meta17": {
+            "content": "/docroot/wac/resources/wac/img/favicons/mstile-144x144.png",
+            "name": "msapplication-TileImage"
+        }
+    },
+    "http://www.atlassian.com/software/confluence/overview/team-collaboration-software?utm_source=bitbucket&utm_medium=link&utm_campaign=bitbucket_footer": {
+        "meta1": {
+            "content": "text/html; charset=utf-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "3BC1DA51CBC3C49088F3C36D5E1636DC",
+            "name": "msvalidate.01"
+        },
+        "meta3": {
+            "content": "!",
+            "name": "fragment"
+        },
+        "meta4": {
+            "content": "width=device-width, initial-scale=1",
+            "name": "viewport"
+        },
+        "meta5": {
+            "content": "Confluence is where you create, organize and discuss work with your team.",
+            "name": "description"
+        },
+        "meta6": {
+            "content": "Confluence - Team Collaboration Software | Atlassian",
+            "property": "og:title"
+        },
+        "meta7": {
+            "content": "Confluence is where you create, organize and discuss work with your team.",
+            "property": "og:description"
+        },
+        "meta8": {
+            "content": "Atlassian",
+            "property": "og:site_name"
+        },
+        "meta9": {
+            "content": "product",
+            "property": "og:type"
+        },
+        "meta10": {
+            "content": "/docroot/wac/resources/wac/img/social-icons/confluence_logo.jpg",
+            "property": "og:image"
+        },
+        "meta11": {
+            "content": "1000",
+            "property": "og:image:width"
+        },
+        "meta12": {
+            "content": "1000",
+            "property": "og:image:height"
+        },
+        "meta13": {
+            "content": "image/jpeg",
+            "property": "og:image:type"
+        },
+        "meta14": {
+            "content": "115407078489594",
+            "property": "fb:admins"
+        },
+        "meta15": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta16": {
+            "content": "@confluence",
+            "name": "twitter:site"
+        },
+        "meta17": {
+            "content": "Atlassian",
+            "name": "application-name"
+        },
+        "meta18": {
+            "content": "#FFFFFF",
+            "name": "msapplication-TileColor"
+        },
+        "meta19": {
+            "content": "/docroot/wac/resources/wac/img/favicons/mstile-144x144.png",
+            "name": "msapplication-TileImage"
+        }
+    },
+    "http://www.cherrypy.org/": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "user-scalable=no, width=device-width",
+            "name": "viewport"
+        },
+        "meta3": {
+            "content": "IE=edge,chrome=1",
+            "http-equiv": "X-UA-Compatible"
+        }
+    },
+    "http://bottlepy.org": {
+        "meta1": {
+            "content": "text/html; charset=utf-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "Bottle is a fast, simple and lightweight WSGI micro web-framework for Python.",
+            "name": "description"
+        }
+    },
+    "http://www.python.org": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "Python.org",
+            "name": "application-name"
+        },
+        "meta4": {
+            "content": "The official home of the Python Programming Language",
+            "name": "msapplication-tooltip"
+        },
+        "meta5": {
+            "content": "Python.org",
+            "name": "apple-mobile-web-app-title"
+        },
+        "meta6": {
+            "content": "yes",
+            "name": "apple-mobile-web-app-capable"
+        },
+        "meta7": {
+            "content": "black",
+            "name": "apple-mobile-web-app-status-bar-style"
+        },
+        "meta8": {
+            "content": "width=device-width, initial-scale=1.0",
+            "name": "viewport"
+        },
+        "meta9": {
+            "content": "True",
+            "name": "HandheldFriendly"
+        },
+        "meta10": {
+            "content": "telephone=no",
+            "name": "format-detection"
+        },
+        "meta11": {
+            "content": "on",
+            "http-equiv": "cleartype"
+        },
+        "meta12": {
+            "content": "false",
+            "http-equiv": "imagetoolbar"
+        },
+        "meta13": {
+            "content": "/static/metro-icon-144x144-precomposed.png",
+            "name": "msapplication-TileImage"
+        },
+        "meta14": {
+            "content": "#3673a5",
+            "name": "msapplication-TileColor"
+        },
+        "meta15": {
+            "content": "#3673a5",
+            "name": "msapplication-navbutton-color"
+        },
+        "meta16": {
+            "content": "Python.org",
+            "property": "og:site_name"
+        },
+        "meta17": {
+            "content": "website",
+            "property": "og:type"
+        },
+        "meta18": {
+            "content": "Welcome to Python.org",
+            "property": "og:title"
+        },
+        "meta19": {
+            "content": "The official home of the Python Programming Language",
+            "name": "description"
+        },
+        "meta20": {
+            "content": "The official home of the Python Programming Language",
+            "name": "og:description"
+        },
+        "meta21": {
+            "content": "Python programming language object oriented web free open source software license documentation download community",
+            "name": "keywords"
+        },
+        "meta22": {
+            "content": "Python programming language object oriented web free open source software license documentation download community",
+            "property": "og:tag"
+        },
+        "meta23": {
+            "content": "",
+            "property": "og:published_time"
+        },
+        "meta24": {
+            "content": "",
+            "property": "og:modified_time"
+        },
+        "meta25": {
+            "content": "",
+            "property": "og:author"
+        },
+        "meta26": {
+            "content": "",
+            "property": "og:section"
+        },
+        "meta27": {
+            "content": "",
+            "property": "og:url"
+        },
+        "meta28": {
+            "content": "",
+            "property": "og:image"
+        },
+        "meta29": {
+            "content": "",
+            "property": "og:video"
+        }
+    },
+    "https://my.atlassian.com/products/index": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "width=device-width, initial-scale=1.0",
+            "name": "viewport"
+        },
+        "meta4": {
+            "content": "596149463257-9oquqfivs9on8t8erq23c8qso6vk3cp1.apps.googleusercontent.com",
+            "name": "google-signin-clientid"
+        }
+    },
+    "https://bitbucket.org/cherrypy/cherrypy/overview": {
+        "meta1": {
+            "content": "IE=edge",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta2": {
+            "charset": "utf-8"
+        },
+        "meta3": {
+            "content": "https://bitbucket.org",
+            "id": "bb-canon-url",
+            "name": "bb-canon-url"
+        },
+        "meta4": {
+            "content": "",
+            "name": "description"
+        },
+        "meta5": {
+            "content": "bitbucket.apps.repo2.views.repository",
+            "name": "bb-view-name"
+        },
+        "meta6": {
+            "content": "False",
+            "name": "ignore-whitespace"
+        },
+        "meta7": {
+            "content": "None",
+            "name": "tab-size"
+        },
+        "meta8": {
+            "content": "Bitbucket",
+            "name": "application-name"
+        },
+        "meta9": {
+            "content": "Bitbucket",
+            "name": "apple-mobile-web-app-title"
+        },
+        "meta10": {
+            "content": "#205081",
+            "name": "theme-color"
+        },
+        "meta11": {
+            "content": "#205081",
+            "name": "msapplication-TileColor"
+        },
+        "meta12": {
+            "content": "https://d3oaxc4q5k2d6q.cloudfront.net/m/1ce7982dcf37/img/logos/bitbucket/white-256.png",
+            "name": "msapplication-TileImage"
+        },
+        "meta13": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta14": {
+            "content": "@bitbucket",
+            "name": "twitter:site"
+        },
+        "meta15": {
+            "content": "bitbucket:hgrepository",
+            "name": "og:type"
+        },
+        "meta16": {
+            "content": "cherrypy / CherryPy",
+            "name": "og:title"
+        },
+        "meta17": {
+            "content": "https://bitbucket.org/cherrypy/cherrypy",
+            "name": "og:url"
+        },
+        "meta18": {
+            "content": "CherryPy is a pythonic, object-oriented HTTP framework.",
+            "name": "og:description"
+        },
+        "meta19": {
+            "content": "https://bitbucket-assetroot.s3.amazonaws.com/c/photos/2011/Oct/09/cherrypy-logo-1825547344-0_avatar.png",
+            "name": "og:image"
+        }
+    },
+    "https://marketplace.atlassian.com/plugins/com.inkfilepicker.plugin.confluence.filepicker": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "https://marketplace-cdn.atlassian.com/s/386/",
+            "name": "resourceBase"
+        },
+        "meta4": {
+            "content": "3bf06183cbeb9711b78eaafdd3731833d6fbe940",
+            "name": "atl_token"
+        },
+        "meta5": {
+            "content": "Browse plugins and add-ons to extend JIRA, Confluence, and our developer tools on Atlassian Marketplace. Free 30-day trial for all add-ons.",
+            "name": "description"
+        },
+        "meta6": {
+            "content": "tUMDKYmkuUhRVhyTOAMS0LGtqtFk9R6tScyXHeTEnPk",
+            "name": "google-site-verification"
+        }
+    },
+    "https://www.atlassian.com/licensing/marketplace": {
+        "meta1": {
+            "content": "text/html; charset=utf-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "3BC1DA51CBC3C49088F3C36D5E1636DC",
+            "name": "msvalidate.01"
+        },
+        "meta3": {
+            "content": "!",
+            "name": "fragment"
+        },
+        "meta4": {
+            "content": "width=device-width, initial-scale=1",
+            "name": "viewport"
+        },
+        "meta5": {
+            "content": "Role of the Atlassian Markeplace in Add-ons",
+            "name": "description"
+        },
+        "meta6": {
+            "content": "Atlassian Marketplace | Atlassian",
+            "property": "og:title"
+        },
+        "meta7": {
+            "content": "Role of the Atlassian Markeplace in Add-ons",
+            "property": "og:description"
+        },
+        "meta8": {
+            "content": "Atlassian",
+            "property": "og:site_name"
+        },
+        "meta9": {
+            "content": "website",
+            "property": "og:type"
+        },
+        "meta10": {
+            "content": "/docroot/wac/resources/wac/img/social-icons/atlassian_logo.jpg",
+            "property": "og:image"
+        },
+        "meta11": {
+            "content": "900",
+            "property": "og:image:width"
+        },
+        "meta12": {
+            "content": "900",
+            "property": "og:image:height"
+        },
+        "meta13": {
+            "content": "image/jpeg",
+            "property": "og:image:type"
+        },
+        "meta14": {
+            "content": "115407078489594",
+            "property": "fb:admins"
+        },
+        "meta15": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta16": {
+            "content": "@atlassian",
+            "name": "twitter:site"
+        },
+        "meta17": {
+            "content": "Atlassian",
+            "name": "application-name"
+        },
+        "meta18": {
+            "content": "#FFFFFF",
+            "name": "msapplication-TileColor"
+        },
+        "meta19": {
+            "content": "/docroot/wac/resources/wac/img/favicons/mstile-144x144.png",
+            "name": "msapplication-TileImage"
+        }
+    },
+    "https://www.atlassian.com/ja/software/confluence": {
+        "meta1": {
+            "content": "text/html; charset=utf-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "3BC1DA51CBC3C49088F3C36D5E1636DC",
+            "name": "msvalidate.01"
+        },
+        "meta3": {
+            "content": "!",
+            "name": "fragment"
+        },
+        "meta4": {
+            "content": "width=device-width, initial-scale=1",
+            "name": "viewport"
+        },
+        "meta5": {
+            "content": "Confluence \u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u3001Wiki \u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u3088\u308a\u30c1\u30fc\u30e0\u306f\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u4f5c\u6210\u3001\u5171\u6709\u3001\u767a\u898b\u3067\u304d\u307e\u3059\u3002\u30db\u30b9\u30c6\u30a3\u30f3\u30b0\u3042\u308b\u3044\u306f\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u306e 30 \u65e5\u9593\u7121\u6599\u30c8\u30e9\u30a4\u30a2\u30eb\u304c\u3042\u308a\u307e\u3059\u3002",
+            "name": "description"
+        },
+        "meta6": {
+            "content": "\u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3001\u30a4\u30f3\u30c8\u30e9\u30cd\u30c3\u30c8\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3001\u30ca\u30ec\u30c3\u30b8\u30de\u30cd\u30b8\u30e1\u30f3\u30c8\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3001\u6280\u8853\u6587\u66f8\u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u3001\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba Wiki \u30bd\u30d5\u30c8\u30a6\u30a7\u30a2",
+            "name": "keywords"
+        },
+        "meta7": {
+            "content": "Confluence - \u30c1\u30fc\u30e0 \u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3 \u30bd\u30d5\u30c8\u30a6\u30a7\u30a2 | Atlassian",
+            "property": "og:title"
+        },
+        "meta8": {
+            "content": "Confluence \u30b3\u30e9\u30dc\u30ec\u30fc\u30b7\u30e7\u30f3\u3001Wiki \u30bd\u30d5\u30c8\u30a6\u30a7\u30a2\u306b\u3088\u308a\u30c1\u30fc\u30e0\u306f\u30b3\u30f3\u30c6\u30f3\u30c4\u3092\u4f5c\u6210\u3001\u5171\u6709\u3001\u767a\u898b\u3067\u304d\u307e\u3059\u3002\u30db\u30b9\u30c6\u30a3\u30f3\u30b0\u3042\u308b\u3044\u306f\u30c0\u30a6\u30f3\u30ed\u30fc\u30c9\u306e 30 \u65e5\u9593\u7121\u6599\u30c8\u30e9\u30a4\u30a2\u30eb\u304c\u3042\u308a\u307e\u3059\u3002",
+            "property": "og:description"
+        },
+        "meta9": {
+            "content": "Atlassian",
+            "property": "og:site_name"
+        },
+        "meta10": {
+            "content": "product",
+            "property": "og:type"
+        },
+        "meta11": {
+            "content": "/docroot/wac/resources/wac/img/social-icons/confluence_logo.jpg",
+            "property": "og:image"
+        },
+        "meta12": {
+            "content": "1000",
+            "property": "og:image:width"
+        },
+        "meta13": {
+            "content": "1000",
+            "property": "og:image:height"
+        },
+        "meta14": {
+            "content": "image/jpeg",
+            "property": "og:image:type"
+        },
+        "meta15": {
+            "content": "115407078489594",
+            "property": "fb:admins"
+        },
+        "meta16": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta17": {
+            "content": "@confluence",
+            "name": "twitter:site"
+        },
+        "meta18": {
+            "content": "Atlassian",
+            "name": "application-name"
+        },
+        "meta19": {
+            "content": "#FFFFFF",
+            "name": "msapplication-TileColor"
+        },
+        "meta20": {
+            "content": "/docroot/wac/resources/wac/img/favicons/mstile-144x144.png",
+            "name": "msapplication-TileImage"
+        }
+    }
+}

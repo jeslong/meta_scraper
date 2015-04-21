@@ -1,0 +1,348 @@
+{
+    "http://support.google.com/bin/static.py?hl=en&ts=1114905&page=ts.cs": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge,chrome=1",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "If you've come across content on Google that may violate the law, let us know, and we'll carefully review the material and consider blocking, removing or restrict",
+            "name": "description"
+        },
+        "meta4": {
+            "content": "Google Help Center",
+            "name": "keywords"
+        },
+        "meta5": {
+            "content": "follow,index",
+            "name": "robots"
+        },
+        "meta6": {
+            "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+            "name": "viewport"
+        }
+    },
+    "http://www.pitchfork.com": {
+        "meta1": {
+            "content": "text/html; charset=UTF-8",
+            "http-equiv": "Content-Type"
+        },
+        "meta2": {
+            "content": "Pitchfork",
+            "property": "og:site_name"
+        },
+        "meta3": {
+            "content": "en_US",
+            "property": "og:locale"
+        },
+        "meta4": {
+            "property": "twitter:domain",
+            "value": "pitchfork.com"
+        },
+        "meta5": {
+            "content": "The essential guide to independent music and beyond.",
+            "name": "description"
+        },
+        "meta6": {
+            "content": "Pitchfork",
+            "name": "title"
+        },
+        "meta7": {
+            "content": "758a0d63bde64c2097ac9409818861",
+            "name": "pocket-site-verification"
+        }
+    },
+    "http://www.google.com/intl/en/options/": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "width=device-width, initial-scale=1, minimum-scale=1",
+            "name": "viewport"
+        },
+        "meta3": {
+            "content": "Overview of Google products",
+            "name": "description"
+        }
+    },
+    "https://maps.google.com/maps?hl=en": {
+        "meta1": {
+            "content": "text/html;charset=ISO-8859-1",
+            "http-equiv": "content-type"
+        },
+        "meta2": {
+            "content": "Find local businesses, view maps and get driving directions in Google Maps",
+            "name": "description"
+        },
+        "meta3": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta4": {
+            "content": "website",
+            "property": "og:type"
+        },
+        "meta5": {
+            "content": "Google Maps",
+            "property": "og:title"
+        },
+        "meta6": {
+            "content": "Find local businesses, view maps and get driving directions in Google Maps",
+            "property": "og:description"
+        },
+        "meta7": {
+            "content": "https://maps.gstatic.com/mapfiles/maps-220.png",
+            "property": "og:image"
+        },
+        "meta8": {
+            "content": "0; URL=/m?hl=en&output=classic&dg=brw&oi=nojs",
+            "http-equiv": "refresh"
+        }
+    },
+    "https://plus.google.com/117685869909901971723": {
+        "meta1": {
+            "content": "origin",
+            "name": "referrer"
+        },
+        "meta2": {
+            "content": "Pitchfork - Google+",
+            "property": "og:title"
+        },
+        "meta3": {
+            "content": "Pitchfork - Google+",
+            "name": "twitter:title"
+        },
+        "meta4": {
+            "content": "Pitchfork - The essential guide to independent music and beyond.",
+            "name": "Description"
+        },
+        "meta5": {
+            "content": "Pitchfork",
+            "itemprop": "name"
+        },
+        "meta6": {
+            "content": "The essential guide to independent music and beyond.",
+            "itemprop": "description"
+        },
+        "meta7": {
+            "content": "//lh6.googleusercontent.com/-1VFoqqQzvfA/AAAAAAAAAAI/AAAAAAAAAD0/U9bcejrhilY/photo.jpg",
+            "itemprop": "image"
+        },
+        "meta8": {
+            "content": "https://plus.google.com/+pitchfork",
+            "itemprop": "url"
+        },
+        "meta9": {
+            "content": "//lh3.googleusercontent.com/proxy/kJDZOwr1OOOUspxd_J8M7nhYCAqGXUnunBmgJ2mQAg1LHJqoXbJRdmmvW8IQJ35KheCNw0Gmu-i2K9bKzRpW=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta10": {
+            "content": "//lh3.googleusercontent.com/proxy/zFAOXezAjbxo5B_BV0-gnpxsj7wWrWJZzSMM9iNEtaq4W-cS6IqS05ghkfebngZsTdwLp16oSEGntQpMW9I3=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta11": {
+            "content": "//lh3.googleusercontent.com/proxy/EzYWULC-lZjsoUzT2GVUPwrAEIwkb1O3U72rEnJC_SYWOp0BlCdzSFwFQnLpjOwnkVIL5Vf8emLTQ_heNbqu=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta12": {
+            "content": "//lh3.googleusercontent.com/proxy/-aukgNXa4pItT0hW4hbtonL_QMSgr7c9Vw88O0HW6WJSr4-ZsvPQIbzWkbPV9WYDaHATrF_F3S1_knfSTOcJ=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta13": {
+            "content": "//lh3.googleusercontent.com/proxy/u4OVTPenJ7dnWdJbDCKk3eoiUIo1svMr4TWAK7bSWd5RI00GOkhtRJZslhAx61WbSCnhrswStJ-KBhVIsMEH=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta14": {
+            "content": "//lh3.googleusercontent.com/proxy/sP937ndMeUro-nIIk_LljCiOpWNvlkSSOarl0R4zStbCxPUYykebXBK0xolemr9qDRonQIjUPp2rLiPN4KpO=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta15": {
+            "content": "//lh3.googleusercontent.com/proxy/asfSKGvgb9gvYOFxKYfwIfkutSKrlmS4hj0zDxjH-juwP0Me20FqxPie-xLPbhOt4-CpGbAf5CToPcx4J3vh=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta16": {
+            "content": "//lh3.googleusercontent.com/proxy/u0Cy1KqwkKZcwhfZLNeLy22V5Rj8blqfFXxEXUfpxSTnEKXNM2I-HdDoZ26ej0uZTntNHOn8t7-ZyEBup-GT=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta17": {
+            "content": "//lh3.googleusercontent.com/proxy/S1r6Pj3Op4LiSx_-vWL6OKPglJSy_EaZo9BsJ5QF6DygQ0vFQUJxIRrFTvmyLu26SYMBZM0AXUcJszr1Inlp=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta18": {
+            "content": "//lh3.googleusercontent.com/proxy/8XrNhQAn07LSTEL3J6NldL8Me5sw3jYSG4GH_p0G4A_OhFrnnAO63kEezq0XT2PhnWW4-1H9l-0A67ZlRjHR=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta19": {
+            "content": "//lh3.googleusercontent.com/proxy/a5PEq6yp8-KXe2eMT6ur2dTGPM-aSONQ3iH-rm4E0wHQn52KMtVFsHrrSdp5PIrLTFXUJMM3aeosYqKbGGp2=w426-h240-n",
+            "name": "twitter:image:src"
+        },
+        "meta20": {
+            "content": "//lh3.googleusercontent.com/proxy/8SD-cozLiMs4Y6JJEEpzFOaP_PcPurg5BVXBCnfc75xcOjerAf35pfyxK6wN4r8opzMZLSxg2NPzYr2XrN1m=w426-h240-n",
+            "name": "twitter:image:src"
+        }
+    },
+    "https://accounts.google.com/TOS?loc=US&hl=en": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "initial-scale=1, minimum-scale=1, width=device-width",
+            "name": "viewport"
+        }
+    },
+    "https://mail.google.com/mail/?tab=Xm": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "width=300, initial-scale=1",
+            "name": "viewport"
+        },
+        "meta3": {
+            "content": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.",
+            "name": "description"
+        },
+        "meta4": {
+            "content": "LrdTUW9psUAMbh4Ia074-BPEVmcpBxF6Gwf0MSgQXZs",
+            "name": "google-site-verification"
+        }
+    },
+    "https://www.google.com/intx/en/enterprise/apps/business/index.html?utm_source=google_products&utm_medium=et&utm_campaign=smb_apps": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "initial-scale=1, minimum-scale=1, width=device-width",
+            "name": "viewport"
+        },
+        "meta3": {
+            "content": "Get email, cloud storage, collaboration tools and other business apps with Google Apps for Work. Try it free for 30 days.",
+            "name": "description"
+        },
+        "meta4": {
+            "content": "NOODP,NOYDIR",
+            "name": "robots"
+        },
+        "meta5": {
+            "content": "Google",
+            "href": "https://plus.google.com/117578386194324385666/",
+            "name": "publisher"
+        },
+        "meta6": {
+            "content": "Google Apps for Work \u00e2\u0080\u0093 Email, Collaboration Tools And More",
+            "property": "og:title"
+        },
+        "meta7": {
+            "content": "website",
+            "property": "og:type"
+        },
+        "meta8": {
+            "content": "www.google.com/work/apps/business/",
+            "property": "og:url"
+        },
+        "meta9": {
+            "content": "../../../work/apps/business/images/logo/apps-for-work-social-icon.png",
+            "property": "og:image"
+        },
+        "meta10": {
+            "content": " Get email, cloud storage, collaboration tools and other business apps with Google Apps for Work. Try it free for 30 days.",
+            "property": "og:description"
+        },
+        "meta11": {
+            "content": "summary",
+            "name": "twitter:card"
+        },
+        "meta12": {
+            "content": "https://twitter.com/GoogleforWork",
+            "name": "twitter:url"
+        },
+        "meta13": {
+            "content": "Google Apps for Work \u00e2\u0080\u0093 Email, Collaboration Tools And More",
+            "name": "twitter:title"
+        },
+        "meta14": {
+            "content": "../../../work/apps/business/images/logo/apps-for-work-social-icon.png",
+            "name": "twitter:image"
+        },
+        "meta15": {
+            "content": " Get email, cloud storage, collaboration tools and other business apps with Google Apps for Work. Try it free for 30 days.",
+            "name": "twitter:description"
+        },
+        "meta16": {
+            "content": "@GoogleforWork",
+            "name": "twitter:creator"
+        },
+        "meta17": {
+            "content": "Google Apps for Work \u00e2\u0080\u0093 Email, Collaboration Tools And More",
+            "itemprop": "name"
+        },
+        "meta18": {
+            "content": " Get email, cloud storage, collaboration tools and other business apps with Google Apps for Work. Try it free for 30 days.",
+            "itemprop": "description"
+        },
+        "meta19": {
+            "content": "../../../work/apps/business/images/logo/apps-for-work-social-icon.png",
+            "itemprop": "image"
+        },
+        "meta20": {
+            "content": "-xfY3zxZj3xrfwjQT395dm2sksqBfqrvvtROKU9mZkY",
+            "name": "google-site-verification"
+        },
+        "meta21": {
+            "content": "D93199779C0B5EE436644DE888FCC272",
+            "name": "msvalidate.01"
+        }
+    },
+    "https://support.google.com/legal/troubleshooter/1114905?rd=1": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge,chrome=1",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "",
+            "name": "description"
+        },
+        "meta4": {
+            "content": "Google Help Center",
+            "name": "keywords"
+        },
+        "meta5": {
+            "content": "follow,index",
+            "name": "robots"
+        },
+        "meta6": {
+            "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+            "name": "viewport"
+        }
+    },
+    "http://maps.google.com/support?hl=en": {
+        "meta1": {
+            "charset": "utf-8"
+        },
+        "meta2": {
+            "content": "IE=edge,chrome=1",
+            "http-equiv": "X-UA-Compatible"
+        },
+        "meta3": {
+            "content": "Official Maps Help Center where you can find tips and tutorials on using Maps and other answers to frequently asked questions.",
+            "name": "description"
+        },
+        "meta4": {
+            "content": "Google Help Center",
+            "name": "keywords"
+        },
+        "meta5": {
+            "content": "follow,index",
+            "name": "robots"
+        },
+        "meta6": {
+            "content": "width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no",
+            "name": "viewport"
+        }
+    }
+}
